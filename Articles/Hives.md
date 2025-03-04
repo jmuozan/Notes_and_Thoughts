@@ -5,7 +5,7 @@
 > #preservation #conservation #crafts 
 
 
-![[Pasted image 20250303160200.png]]
+![[./IMG/Pasted image 20250303160200.png]]
 *Aladin Borioli: Hives (Copyright © Aladin Borioli / RVB Books, 2022)*
 ## What does this article talk about
 
