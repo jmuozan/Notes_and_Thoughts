@@ -5,4 +5,4 @@
 >
 > #digital_fabrication #fablabs #crafts #personalization 
 
-![FAB.png](FAB.png)
+![FAB.png](IMG/FAB.png)

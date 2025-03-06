@@ -1,4 +1,4 @@
-### HIVES, 2400 B.C.E. – 1852 C.E.
+## HIVES, 2400 B.C.E. – 1852 C.E.
 
 
 > [!example] March 3rd 2025 16:30
@@ -53,6 +53,7 @@ If the goal is to preserve, restore and conserve the crafts in the 4th (or 5th) 
 
 > [!abstract] Directly Related Readings
 > [_Fab: The Coming Revolution on Your Desktop--from Personal Computers to Personal Fabrication_.](FAB.md) 
+
 
 ## Bibliography
 

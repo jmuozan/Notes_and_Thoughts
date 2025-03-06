@@ -6,7 +6,8 @@
 - [ ] Craftinnova
 - [ ] Càtedra Artesania UPV
 - [ ] L'artisan electronique
-- [ ] AI.RTISANSHIP
+- [x] AI.RTISANSHIP
+- [ ] DAFNE+
 - [ ] CULTURALITY
 - [x] Hives 
 - [ ] Manuel Martinez Torán
