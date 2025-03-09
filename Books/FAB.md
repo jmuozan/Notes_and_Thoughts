@@ -6,7 +6,7 @@
 >
 > #digital_fabrication #fablabs #crafts #personalization #neo-crafstmanship
 
-![FAB.png](FAB.png)
+![FAB.png](./IMG/FAB.png)
 
 ### The * *Rifirafe*
 The historical rupture between art and craft, initiated during the Renaissance and deepened by the Industrial Revolution, has left a mark on how we perceive, value, and preserve human creative expression. As Gershenfeld mentions in the book, this artificial division relegated fabrication to what we know as "illiberal arts" pursued merely for economic gain. This intellectual bifurcation has had consequences that extend beyond academic categorization into the root of how our societies operate, organize labor, and determine which forms of creativity deserve preservation.
@@ -48,7 +48,14 @@ This future raises questions about preservation. ***If, thanks to the "democrati
 Perhaps, the answer lies in recognizing that preservation itself must evolve. Rather than focusing exclusively on protecting physical artifacts from the past, we might instead need to preserve the conditions that enable ongoing creation and reinvention. I personally find this related to the "Fab movement", Fablabs have helped establish around the world represent not just access to digital fabrication tools but the preservation of creative agency itself.
 
 
+> [!abstract] Directly Related Readings
+> [_The Craftsman_.](The_Craftsman.md) 
+> [AI.RTISANSHIP](../Personal_Projects/AI.RTISANSHIP.md)
 
+
+## Bibliography
+
+Sennet, R. (2008). _The Craftsman_. Penguin Random House.
 
 
 

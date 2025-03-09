@@ -7,7 +7,7 @@
 > #preservation #conservation #crafts 
 
 
-![](HIVES.png)
+![Hives](./IMG/HIVES.png)
 *Aladin Borioli: Hives (Copyright © Aladin Borioli / RVB Books, 2022)*
 ## What does this article talk about
 

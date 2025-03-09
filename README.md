@@ -19,3 +19,6 @@ computational thinking
 ## Events
 
 - [Craftinnova](./)
+
+## Personal Projects
+- [AI.RTISANSHIP](./Personal_Projects/AI.RTISANSHIP.md)
