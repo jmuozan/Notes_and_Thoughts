@@ -3,7 +3,7 @@
 - [ ] When Things Start to Think
 - [x] Fab
 - [ ] Arts & Crafts
-- [ ] Craftinnova
+- [x] Craftinnova
 - [ ] Càtedra Artesania UPV
 - [ ] L'artisan electronique
 - [x] AI.RTISANSHIP

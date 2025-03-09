@@ -1,11 +1,11 @@
 # Notes & Thoughts on my Research
 
-
+<!--
 Beyond the stl:  Rethinking fabrication through *crafts*thinking
 
 
 computational thinking
-
+-->
 
 
 ## Articles
@@ -18,7 +18,7 @@ computational thinking
 
 ## Events
 
-- [Craftinnova](./)
+- [Craftinnova](./Wokshops/Craftinnova.md)
 
 ## Personal Projects
 - [AI.RTISANSHIP](./Personal_Projects/AI.RTISANSHIP.md)
