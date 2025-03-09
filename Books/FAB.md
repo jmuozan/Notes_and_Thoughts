@@ -43,6 +43,7 @@ Looking towards the future, Gershenfeld envisions a convergence of digital desig
 If, what caracterices crafts as Richard Sennett argues, are the obstacles and resistances encountered that develop artisanal practice and understanding, Gershenfeld's work might suggest this is precisely what personal fabrication enables. not the elimination of challenges, but their democratization, allowing individuals to encounter and overcome them directly rather than having them mediated through industrial processes. Esta democratización de desafíos refleja una evolución natural del pensamiento de Morris, quien buscaba preservar la dignidad del trabajo manual y la conexión directa entre el artesano y su creación, aunque ahora a través de medios tecnológicos que Morris no podría haber imaginado.
 
 This future raises questions about preservation. ***If, thanks to the "democratization" of personal fabrication, objects can be "perfectly" reproduced from digital files, what constitutes the "original"?*** ***Is it the physical artifact, the digital design, or the creative process itself?*** 
+
 ***"How can we faithfully preserve something whose essence lies precisely in its unrepeatability?"***
 
 Perhaps, the answer lies in recognizing that preservation itself must evolve. Rather than focusing exclusively on protecting physical artifacts from the past, we might instead need to preserve the conditions that enable ongoing creation and reinvention. I personally find this related to the "Fab movement", Fablabs have helped establish around the world represent not just access to digital fabrication tools but the preservation of creative agency itself.
@@ -51,6 +52,7 @@ Perhaps, the answer lies in recognizing that preservation itself must evolve. Ra
 > [!abstract] Directly Related Readings
 > [_The Craftsman_.](The_Craftsman.md) 
 > [AI.RTISANSHIP](../Personal_Projects/AI.RTISANSHIP.md)
+
 
 
 ## Bibliography

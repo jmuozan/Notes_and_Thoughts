@@ -44,7 +44,10 @@ The clay printer becomes not just a tool but a participant in this dialogue, pre
 In this way, the workshop demonstrates that the essence of craftsmanship can survive and even thrive in the digital age. Not despite but because of the new tools and methods that expand the craftsperson's creative possibilities while preserving their essential connection to materials, process, and meaning.
 
 
-
+> [!abstract] Directly Related Readings
+> [_The Craftsman_.](The_Craftsman.md) 
+> [AI.RTISANSHIP](../Personal_Projects/AI.RTISANSHIP.md)
+> [FAB](../Books/Fab.md)
 
 
 
