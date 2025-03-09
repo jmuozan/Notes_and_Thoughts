@@ -1,5 +1,5 @@
 ## HIVES, 2400 B.C.E. – 1852 C.E.
-
+### [Liz Gorny](https://www.itsnicethat.com/authors/liz-gorny) & Aladin Borioli
 
 > [!example] March 3rd 2025 16:30
 > [Article](https://www.itsnicethat.com/articles/apian-hives-publication-270522)
@@ -7,7 +7,7 @@
 > #preservation #conservation #crafts 
 
 
-![](IMG/HIVES.png)
+![](HIVES.png)
 *Aladin Borioli: Hives (Copyright © Aladin Borioli / RVB Books, 2022)*
 ## What does this article talk about
 
