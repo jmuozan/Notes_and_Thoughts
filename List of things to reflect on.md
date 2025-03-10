@@ -20,6 +20,16 @@
 
 
 
+
+
+
+<!--
+Beyond the stl:  Rethinking fabrication through *crafts*thinking
+
+
+computational thinking
+-->
+
 ## Reviving Heritage: The role of _Things That Think_ in educating and preserving "lost" jobs
 
 Tiempo atrás, progreso, tecnología, conocimiento y arte se fusionaban de manera impecable en el trabajo artesano, ejercido en los distintos pueblos y ciudades. Con el paso del tiempo se creó una distinción clara entre arte y artesanía, relegando el trabajo manual artesano a "lo vulgar" mientras que el arte liberal se empezó a identificar como el conocimiento y desarrollo.

@@ -1,12 +1,5 @@
 # Notes & Thoughts on my Research
 
-<!--
-Beyond the stl:  Rethinking fabrication through *crafts*thinking
-
-
-computational thinking
--->
-
 
 ## Articles
 
