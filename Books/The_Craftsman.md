@@ -1,6 +1,18 @@
 ## The Craftsman 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Los aspectos fundamentales de la técnica artesana según Sennett son:
 
 1. La unidad entre mano y cabeza: Sennett rechaza la división tradicional entre trabajo manual e intelectual. Para él, el buen artesano integra el pensamiento y la acción en un diálogo constante entre prácticas concretas y pensamiento.
