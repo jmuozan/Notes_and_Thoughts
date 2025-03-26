@@ -14,7 +14,7 @@
 
 ## Events
 
-- [Craftinnova](./Wokshops/Craftinnova.md)
+- [Craftinnova](./Workshops/Craftinnova.md)
 
 ## Personal Projects
 
