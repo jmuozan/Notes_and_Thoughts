@@ -28,7 +28,7 @@ This last aspect represents the same way that traditionally, artisans had contro
 
 > At that time, neither Watt nor Morris could combine their work along the same line; even if it diverged in some way, any approach was impossible, let alone thinking that technology and craftsmanship could coexist toward a common result benefiting both. Morris was the antithesis of industrialized progress and even used politics as a means to defend his ideals.
 
-This quote reflects the historical dichotomy between technology and craftsmanship, a conflict that seemed irreconcilable in Morris's time. However, the contemporary perspective offered by Gershenfeld invites us to reconsider this apparent incompatibility. Where Morris saw a threat in industrialization, Gershenfeld finds an opportunity to democratize creation through digital technology, thus achieving a conceptual synthesis that would have been unthinkable in the 19th century.
+This quote reflects the historical dichotomy between technology and craftsmanship, a conflict that seemed irreconcilable in Morris's time. However, the contemporary perspective offered by Gershenfeld invites us to reconsider this apparent incompatibility. Where Morris saw a threat in industrialization, Gershenfeld found an opportunity to democratize creation through digital technology, thus achieving a conceptual synthesis that would have been unthinkable in the 19th century.
 
 The "Arts and Crafts" Movement reminds us of the importance of integrating creativity and artisanal uniqueness into our technological world, promoting development that balances innovation with cultural heritage. The challenge is not to choose between technology or tradition, but to find how they can mutually enrich each other.
 
