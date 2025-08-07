@@ -130,149 +130,95 @@ This approach recognizes that the challenge is not technological but organizatio
 
 The following sections examine how other domains have approached democratization not merely through access expansion, but through fundamental transformation of processes, representation systems, and participatory structures. These historical precedents reveal patterns that suggest alternative pathways for fabrication democratization beyond the current focus on tool access.
 
-**Historical Precedents: Democratization as Process vs. Access**
+**Deconstructing "Democratization": What Democracy Actually Requires**
 
-The concept of democratization has manifested differently across various domains and historical moments, offering insights into why current fabrication approaches may be insufficient. Examining these precedents reveals two distinct models: democratization as expanded access to existing systems versus democratization as fundamental restructuring of participatory processes.
+Before examining fabrication's current limitations, it becomes essential to interrogate what "democratization" actually means and why the term has been misapplied to contemporary digital fabrication contexts. The word "democracy" derives from the Greek δημοκρατία (demokratia): demos (people) + kratos (power/rule), literally meaning "rule by the people." Yet this etymology reveals the inadequacy of access-based approaches to fabrication democratization.
 
-**Education: From Elite Access to Process Transformation**
+**Democracy as Distributed Decision-Making Authority**
 
-The democratization of education provides instructive parallels. The medieval university system concentrated advanced learning within exclusive institutions serving aristocratic and clerical elites. Initial democratization efforts focused primarily on expanding access, establishing more universities and reducing economic barriers to enrollment. However, genuine educational democratization required more fundamental transformations.
+Political democracy, at its core, requires the distribution of decision-making authority among participants rather than merely access to predetermined decision-making processes. As Robert Dahl's foundational analysis demonstrates, democratic systems must provide "effective participation" (Dahl, 1989) where citizens have " basic political rights and liberties, such as free expression, and allows persons to live under laws of their own choosing" (Dahl, 1989), and enlightened understanding enabling informed choice among alternatives. Crucially, democracy requires what Dahl terms "final control over the agenda" (Dahl, 2017), the authority to determine not just outcomes within predetermined options, but the capacity to define what questions get asked and how they are framed. This distinguishes genuine democratic participation from consultative processes that solicit input within predetermined parameters while concentrating agenda-setting authority elsewhere.
 
-John Dewey's progressive education movement recognized that true democratization demanded restructuring pedagogical processes themselves. In _Democracy and Education_ (1916), Dewey argued that democratic education required "learning by doing" approaches that preserved student agency rather than reducing learners to passive recipients of expert knowledge. As Dewey observed, "the school must represent present life—life as real and vital to the child as that which he carries on in the home, in the neighborhood, or on the playground" (Dewey, 1897). This represented democratization as process transformation rather than mere access expansion.
+Applied to fabrication contexts, genuine democratization would require the distribution of creative decision-making authority throughout making processes rather than simply expanded access to predetermined fabrication procedures. Current maker spaces, despite their collaborative ethos, preserve what might be called 'fabrication autocracy' a concentrated creative authority in separate design phases, while relegating material execution to predetermined procedures that eliminate participant agency.
 
-Paulo Freire's critical pedagogy further developed this distinction. Freire argued that expanding access to traditional "banking" education, where knowledge is deposited in passive students, could not achieve genuine democratization. Instead, he advocated for "problem-posing education" that preserved learners' capacity for critical inquiry and creative response (Freire, 1970). The parallel to fabrication democratization is striking: providing access to existing CAD/CAM workflows may be analogous to expanding access to banking education without addressing the underlying pedagogical structures that fragment learning from active engagement.
+**The Representation Problem in Fabrication Democracy**
 
-**Media Production: Tools vs. Narrative Control**
+Political democracy confronts the fundamental challenge of representation: _how to enable large-scale collective decision-making while preserving individual agency?_ This requires sophisticated institutional frameworks, electoral systems, deliberative processes, and constitutional protections that mediate between individual preferences and collective outcomes without eliminating personal autonomy.
 
-The democratization of media production offers another relevant precedent. The emergence of affordable digital video equipment and editing software dramatically expanded access to production tools previously restricted to professional studios. Platforms like YouTube created unprecedented distribution opportunities for independent creators.
+Fabrication democratization faces analogous representational challenges: _how to enable sophisticated material manipulation while preserving maker agency throughout creative processes?_ Yet current digital fabrication has developed no equivalent to democratic political institutions. Instead, it has adopted what might be termed "technocratic representation"; expert-designed software interfaces and standardized file formats that mediate between human intention and material execution while eliminating opportunities for maker input beyond initial design specification.
 
-Yet media scholars have noted that this technological democratization has not necessarily translated into narrative democratization. Henry Jenkins' concept of "participatory culture" recognizes that while digital tools enable broader participation in media creation, they often operate within existing industrial logics that privilege certain forms of content and expression over others (Jenkins, 2006). The most successful independent creators often must adapt their creative approaches to algorithmic optimization and platform requirements, potentially compromising the very creative agency that democratization ostensibly enables.
+This technocratic approach mirrors Joseph Schumpeter's theory of democracy as "competitive leadership" (Schumpeter, 1950), a system that preserves formal democratic procedures while concentrating substantive decision-making authority within expert institutions. Just as this democracy enables citizen participation within predetermined choices while eliminating popular control over agenda-setting, current fabrication democratization enables maker participation within predetermined workflow structures while eliminating creative authority over how those structures operate.
 
-This parallel suggests that fabrication democratization faces similar risks. Providing access to digital fabrication tools without addressing the underlying workflow structures may enable broader participation while maintaining the same distributed agency architecture that fragments creative control.
+**Participatory Democracy and Making**
 
-**Political Movements: Representation vs. Direct Participation**
+Participatory democratic theory offers more relevant models for genuine fabrication democratization. Theorists like Carole Pateman argue that democracy requires " a participatory society to exist, i.e. a society where all political systems have been democratised and socialisation through participation can take place in all areas" (Pateman, 1976). This approach recognizes that democratic capacity develops through practice; people learn democratic skills by exercising democratic authority rather than through formal instruction about democratic procedures.
 
-Political democratization provides perhaps the most relevant historical precedent. Liberal democratic movements have traditionally focused on expanding representative participation, ensuring broader access to existing political institutions through universal suffrage and civil rights protections. However, participatory democracy movements have argued that genuine democratization requires more fundamental restructuring of decision-making processes.
+Pateman's emphasis on workplace democratization proves particularly relevant for fabrication contexts. She argues that "most individuals spend a great deal of their lifetime at work and the business of the workplace provides an education in the management of collective affairs that it is difficult to parallel elsewhere" (Pateman, 1976), and that spheres like industry "should be seen as political systems in their own right, offering areas of participation additional to the national level" (Pateman, 1976). If individuals are to exercise control over their lives and environment, then "authority structures in these areas must be so organised that they can participate in decision making."
 
-The Yugoslav workers' self-management system, despite its ultimate failure, exemplified this alternative approach by attempting to reorganize productive decision-making rather than simply expanding access to existing hierarchical structures (Horvat, 1982). Similarly, contemporary movements for participatory budgeting and consensus-based decision-making seek to preserve citizen agency throughout political processes rather than concentrating authority in representative institutions.
+Applied to fabrication, participatory democracy would suggest that making skills develop through exercising creative authority throughout material processes rather than through instruction about predetermined fabrication procedures. This perspective challenges current "maker education" approaches that emphasize tool training and safety procedures while preserving expert-designed workflow structures that eliminate opportunities for developing creative agency.
 
-These examples reveal that meaningful democratization often requires what might be called _structural democratization_: reorganizing the underlying processes and decision-making architectures rather than simply expanding access to existing systems. Applied to fabrication, this suggests that genuine democratization may require developing workflow structures that preserve maker agency throughout the production process, not merely providing access to existing CAD/CAM systems.
+Deconstructing "Preservation": Beyond Cultural Heritage Models
 
-**The Limits of Current Fabrication Democratization**
+The concept of "preservation" requires similar critical examination, as its application to craft knowledge has been influenced by cultural heritage frameworks that may not adequately address the dynamic nature of living making practices. Understanding preservation through cross-cultural perspectives reveals fundamental assumptions embedded within Western conservation models and suggests alternative approaches more suitable for maintaining creative agency within digital fabrication contexts.
 
-Understanding democratization as potentially requiring structural transformation rather than mere access expansion illuminates the limitations of current fabrication approaches. The FabLab model, despite its achievements in expanding tool access, has largely preserved the distributed agency architecture that this research has identified as problematic.
+Preservation as Dynamic Process vs. Static Conservation
 
-Standard FabLab workflows typically follow established industrial sequences: users conceptualize projects in digital design environments, translate geometric specifications through CAD software, generate toolpaths through CAM programs, and execute predetermined fabrication procedures on shared machines. While the collaborative and educational context humanizes this process, the fundamental structure maintains the systematic separation of conception from execution that characterizes industrial production.
+Traditional cultural preservation models, developed primarily for archaeological and architectural contexts, emphasize conservation of existing artifacts and documentation of historical practices. This approach, rooted in Western museum culture, treats cultural objects as fixed entities requiring protection from change rather than as elements within ongoing living traditions.
 
-This preservation of distributed agency creates several specific limitations that constrain the potential for genuine creative democratization:
+The 2003 UNESCO Convention for the Safeguarding of Intangible Cultural Heritage marked a conceptual shift by recognizing that cultural heritage extends beyond physical monuments to include "practices, representations, expressions, knowledge, and skills that communities recognize as part of their cultural identity." Crucially, the Convention defines intangible cultural heritage as something that is "constantly recreated by communities and groups in response to their environment" (UNESCO, 2003), explicitly acknowledging its living, evolving nature.
 
-Loss of Material Dialogue: Traditional craft practice enabled continuous negotiation between maker and material, with craftspeople adapting their techniques based on material feedback, unexpected discoveries, or emergent possibilities. Current digital workflows concentrate adaptive decision-making within the initial design phase while rendering material execution increasingly deterministic.
+Yet even this progressive framework continues to operate through categories that emphasize authenticity verification and systematic documentation over adaptation and innovation. The UNESCO approach, while acknowledging living practices, still requires "identification, documentation, research, preservation, protection, promotion, enhancement, transmission" (UNESCO, 2003)—processes that tend to crystallize traditions into documentable forms rather than preserving their adaptive capacity.
 
-Elimination of Tacit Knowledge: The embodied understanding that craftspeople develop through direct material engagement, what Michael Polanyi termed "tacit knowledge" (Polanyi, 1966), cannot be adequately preserved within current representational formats. G-code and similar machine control languages capture geometric precision but eliminate the contextual understanding, adaptive responses, and experiential wisdom that characterize traditional making.
+Cross-Cultural Models of Adaptive Preservation
 
-Fragmentation of Creative Narrative: Traditional craft artifacts embodied the complete story of their creation, including modifications, discoveries, and decision points that emerged during the making process. Current digital workflows treat these elements as irrelevant noise rather than integral components of the creative work.
+Examining preservation practices across different cultural contexts reveals alternative approaches that prioritize functionality and relationship continuity over material authenticity or procedural fixity.
 
-Standardization of Expression: The dominance of particular software platforms and file formats creates subtle pressures toward aesthetic and technical conformity, potentially constraining the "individual twist and play of fancy" that Walter Crane identified as essential to craft expression.
+Cuban Automobile Preservation: Functionality Through Adaptation
 
-These limitations suggest that current approaches to fabrication democratization may be analogous to the educational banking model that Freire criticized: expanding access to existing systems without addressing the underlying structures that fragment creative agency.
+Cuba's preservation of classic American automobiles exemplifies what might be termed "functional preservation"—maintaining cultural significance through continuous adaptation rather than static conservation. Following the 1959 Cuban Revolution and subsequent U.S. embargo, Cubans maintained an estimated 60,000 classic American cars through creative adaptation, with "about half of the cars originat[ing] from the 1950s, while 25 percent are from the 1940s and another 25 percent are from the 1930s" (Diplomatic Times, 2019).
 
-Preserving the Intangible: What Documentation Cannot Capture
+These vehicles remain culturally significant not despite their modifications but because of them. External appearances preserve historical recognition value while internal systems have evolved into "hybrid assemblages" incorporating "diesel engines for the old straight-six or V-8 engines originally in the cars, due to diesel's lower cost on the island, and the better fuel efficiency of the engines" (Diplomatic Times, 2019). Some vehicles now operate with diesel engines from Soviet trucks or boats, creating technological palimpsests that embody Cuban resilience and innovation.
 
-The recognition that current fabrication democratization approaches preserve distributed agency architecture while expanding access raises fundamental questions about what constitutes genuine preservation of craft knowledge and creative practice. Traditional approaches to craft documentation, whether through written instructions, photographic records, or video demonstrations, consistently encounter what might be termed the "intangible problem": the impossibility of capturing and transmitting the embodied knowledge, adaptive decision-making, and contextual responsiveness that characterize unified agency in making.
+This preservation approach prioritizes ongoing functionality and cultural continuity over strict material authenticity. The cars remain integrated within contemporary Cuban life—"many of them are used as taxis, especially in Havana" and "while some people might expect these old cars to be museum pieces, they're part of everyday life in Cuba" (Adewale, 2024). Their preservation occurs through use rather than protection from use.
 
-This intangible problem is not merely a technical limitation of documentation media but reflects deeper philosophical questions about the nature of craft knowledge itself. Michael Polanyi's investigation of tacit knowledge revealed that much of what we know "cannot be put into words" because it exists as embodied understanding that emerges through direct engagement rather than explicit instruction (Polanyi, 1966). The medieval carpenter's ability to adjust joint techniques based on wood grain patterns, or the contemporary ceramicist's intuitive responses to clay plasticity, represent forms of knowledge that exist in the integrated relationship between maker, material, and context rather than as extractable information.
+Māori River Preservation: Relational Continuity Through Legal Innovation
 
-**The Limits of Explicit Documentation**
+New Zealand's legal recognition of the Whanganui River as a living entity with "the same rights and responsibilities as a person" (Pāremata Aotearoa, 2017) exemplifies preservation through transformed conceptual frameworks rather than material conservation. This approach emerged from Māori understanding expressed in the saying "Ko au te awa, ko te awa ko au" (I am the river, and the river is me), where the river name "Awa Tupua" encompasses "the whole river system, its spirit, and the people that are related to it" (National Library of New Zealand, 2017).
 
-Traditional craft documentation approaches consistently encounter systematic limitations when attempting to preserve this embodied dimension of making. Written instructions, regardless of their detail, cannot capture the subtle sensory feedback that guides adaptive decision-making during material manipulation. As Richard Sennett observes in _The Craftsman_, "the gap between what people can do and what they can say about what they do" represents a fundamental characteristic of skilled practice rather than a temporary documentation problem (Sennett, 2008).
+Rather than treating the river as a natural resource requiring protection through regulatory restriction, this model empowers "the Māori to manage and protect the river based on their traditional ecological knowledge" (VijayKuma, 2019). Preservation operates through maintaining relationships and ongoing interactions rather than controlling physical attributes or preventing change.
 
-Photographic and video documentation, while capturing more contextual information than written instruction, still operate through what might be called "external observation" that cannot access the maker's internal decision-making processes or sensory experiences. These formats preserve the visible outcomes of creative decisions without preserving the reasoning, contextual factors, or adaptive responses that generated those decisions.
+This relational approach recognizes that preservation must account for living connections between people, practices, and environments rather than treating cultural elements as discrete objects requiring isolation from contemporary influences.
 
-Even sophisticated contemporary documentation approaches, such as motion capture systems that record detailed body movements during craft practice, encounter the same fundamental limitation. These technologies can preserve precise kinesthetic data without capturing the intentionality, contextual awareness, or adaptive reasoning that guide those movements. The result is documentation that may enable mechanical reproduction without preserving the creative agency that characterized the original practice.
+Implications for Digital Craft Preservation
 
-**The Problem of Contextual Adaptation**
+These diverse preservation models—Cuban functional adaptation and Māori relational continuity—reveal shared principles that challenge Western conservation assumptions. Both prioritize process over product, relationships over artifacts, and adaptation over stasis. Both recognize that genuine preservation requires maintaining the conditions that enable ongoing cultural vitality rather than documenting static cultural forms.
 
-Traditional craft practice operated through what this research terms contextual adaptation: the capacity to modify techniques, adjust approaches, and respond to unexpected conditions based on the specific material, environmental, and situational factors present during making. This adaptive capacity represents a crucial component of creative agency that proves particularly resistant to documentation.
+Applied to digital craft preservation, these principles suggest that effective approaches should capture process knowledge and decision-making rather than just final geometries, preserve the dynamic relationship between maker, material, and tool, and allow for adaptation and evolution rather than freezing techniques in time.
 
-The medieval carpenter working with locally sourced timber developed techniques adapted to specific wood species, regional climate conditions, and available tools. This localized knowledge could not be adequately preserved through generalized documentation because it existed in the relationship between specific contexts and adaptive responses rather than as universal principles.
+Preservation as Structural Maintenance
 
-Contemporary craft practitioners continue to demonstrate this contextual adaptation. The furniture maker adjusting joinery techniques based on particular wood grain patterns, the textile artist modifying weaving tension in response to specific fiber characteristics, or the metalworker adapting forming techniques based on material temperature and ambient conditions, all exemplify knowledge that exists in contextual relationships rather than abstract principles.
+From this cross-cultural perspective, craft knowledge preservation becomes analogous to ecological preservation, which maintains ecosystem health through preserving functional relationships rather than individual species populations. Just as ecological preservation focuses on maintaining the processes that enable ecosystem adaptation and resilience, craft knowledge preservation would focus on maintaining the organizational structures that enable ongoing creative development.
 
-Current digital fabrication workflows systematically eliminate this contextual adaptation by requiring predetermined specifications that cannot be modified during execution. The maker must anticipate all contextual variables during the design phase and embed appropriate responses within the digital file, transforming contextual adaptation from a continuous dialogue into a predictive modeling exercise.
+Yet skilled making practices have always been evolutionary rather than static. Traditional craft knowledge developed through continuous adaptation to changing materials, tools, technologies, and cultural contexts. What characterized these traditions was not procedural fixity but adaptive capacity—the ability to maintain creative authority while responding to new conditions. As Cuban mechanics demonstrate through automotive adaptation and as Māori communities demonstrate through evolving river stewardship, living traditions preserve their essential character through responsive modification rather than rigid conservation.
 
-**The Temporal Dimension of Making**
+This approach suggests that genuine preservation requires creating conditions where skilled making practices can continue developing rather than simply documenting how they currently operate. Current digital fabrication's focus on explicit documentation—tutorials, parametric models, procedural instructions—represents what might be called "museum preservation": approaches that capture surface manifestations while eliminating the underlying adaptive capacity that enabled those practices to develop historically.
 
-Traditional craft practice also embedded what might be called temporal knowledge: understanding that emerges through the duration of making processes and cannot be compressed into instantaneous documentation. The baker's understanding of dough development, the ceramicist's knowledge of firing cycles, or the woodworker's familiarity with seasoning processes all represent forms of knowledge that exist in temporal relationships rather than static states.
+Dynamic Preservation as Democratic Practice
 
-This temporal dimension creates particular challenges for digital preservation. Current documentation formats, whether photographic, video, or textual, operate through discrete sampling that captures moments within continuous processes without preserving the temporal relationships that give those moments meaning. The result is documentation that may preserve individual stages without preserving the temporal logic that connects them.
+The connection between preservation and democratization becomes apparent when examining how different preservation approaches distribute authority over cultural development. Museum preservation concentrates interpretive authority within expert institutions that determine authentic forms and appropriate practices. Dynamic preservation, by contrast, maintains community authority over ongoing cultural adaptation—the capacity to determine how traditions should evolve in response to changing conditions.
 
-Digital fabrication workflows intensify this temporal compression by requiring complete specifications before execution begins. The continuous temporal dialogue between maker and material that characterizes traditional craft becomes replaced by predictive modeling that must anticipate temporal development within predetermined parameters.
+Cuban automobile preservation maintains community control over technological adaptation; Māori river stewardship preserves Indigenous authority over environmental relationship. Both models demonstrate how preservation can function as democratic practice that maintains cultural agency rather than transferring it to external conservation institutions.
 
-**Why Current Digital Formats Cannot Preserve Craft Knowledge**
+Applied to digital fabrication, this suggests that preservation-based democratization would focus on maintaining maker authority over creative adaptation rather than expanding access to predetermined fabrication procedures. Just as Cuban mechanics maintain automotive culture through responsive modification and Māori communities maintain river relationships through evolving stewardship practices, digital craft preservation would need to maintain the adaptive authority that enables creative traditions to develop continuously in response to new technological possibilities.
 
-The limitations of traditional documentation approaches become amplified within digital fabrication contexts due to the particular representational constraints of current file formats and workflow architectures. Understanding these constraints requires examining how digital fabrication systems encode and transmit information about making processes.
-
-The Geometric Reduction Problem
-
-Contemporary CAD formats operate through what might be termed geometric reduction: the translation of complex three-dimensional forms and material relationships into mathematical descriptions that computers can process. While this reduction enables unprecedented precision in geometric specification, it systematically eliminates precisely the kinds of information that this research has identified as crucial to craft knowledge preservation.
-
-Standard formats like STEP, STL, and DXF preserve geometric relationships with mathematical precision but cannot encode the reasoning behind design decisions, the material considerations that influenced form development, or the adaptive responses that emerged during the design process. A furniture joint represented in CAD format captures precise dimensional specifications without preserving the craftsperson's understanding of structural requirements, aesthetic intentions, or material properties that influenced the joint's design.
-
-This geometric reduction extends beyond individual objects to entire assemblies and making processes. Current formats treat complex artifacts as collections of discrete geometric elements rather than integrated systems where components exist in functional and material relationships. The result is digital representation that enables mechanical reproduction without preserving the systematic understanding that characterizes traditional craft knowledge.
-
-**Machine Language Limitations**
-
-The translation from CAD formats to machine control languages like G-code represents a further reduction that eliminates additional dimensions of craft knowledge. G-code operates through precise coordinate specifications and predetermined tool movements that eliminate any possibility for real-time adaptation or contextual response during fabrication.
-
-Where traditional craft tools functioned as transparent extensions of the craftsperson's embodied knowledge, enabling continuous adjustment based on material feedback, contemporary machine control languages require complete predetermination of all fabrication parameters. The maker must anticipate all possible material variations, tool wear patterns, and environmental conditions within the digital file, transforming the continuous dialogue between maker and material into a predictive modeling exercise.
-
-This predetermination requirement systematically eliminates what this research has identified as adaptive authority: the capacity for real-time modification of making decisions based on emergent conditions. The traditional craftsperson's ability to adjust technique based on material feedback becomes impossible within workflows that require complete specification before execution begins.
-
-**The Information Architecture Problem**
-
-Beyond the limitations of individual file formats, current digital fabrication workflows operate through information architectures that fragment rather than preserve the integrated nature of craft knowledge. The sequential translation between CAD, CAM, and machine control formats creates multiple points where craft knowledge can be lost or distorted.
-
-Each translation operates according to its own logical requirements and constraints, potentially eliminating information that was present in previous stages but irrelevant to current processing needs. The craftsperson's aesthetic intentions preserved within CAD modeling may be eliminated during CAM toolpath optimization, which prioritizes manufacturing efficiency over design reasoning.
-
-This fragmentation creates what might be called knowledge degradation: the systematic loss of craft understanding through technological mediation. Unlike traditional craft tools that preserved and transmitted embodied knowledge through their use, current digital workflows operate through reductive translations that filter out precisely the kinds of contextual, adaptive, and experiential knowledge that this research seeks to preserve.
-
-Toward Integrated Documentation: Workflow as Narrative
-
-The limitations of current approaches to craft knowledge preservation suggest the need for alternative frameworks that can capture and transmit the integrated nature of traditional making practices while leveraging the capabilities of contemporary digital systems. Rather than treating documentation as separate from making processes, this research proposes approaching workflow itself as a form of narrative documentation that can preserve the complete creative journey rather than only its geometric outcomes.
-
-This integrated approach recognizes that the value of craft knowledge lies not simply in its material products but in the creative processes that generate those products. Traditional craft artifacts embodied the complete story of their creation, including the decision points, adaptive responses, and contextual negotiations that emerged during making. Preserving this narrative dimension requires documentation frameworks that treat the making process as an integral component of the final work rather than dispensable scaffolding.
-
-**Holistic Workflow Documentation**
-
-Integrated documentation approaches must preserve what might be called the "complete creative narrative": the full sequence of decisions, modifications, discoveries, and adaptive responses that characterize making processes. This requires moving beyond the geometric reduction that characterizes current formats toward representational frameworks that can encode reasoning, context, and adaptive decision-making alongside geometric specifications.
-
-Such frameworks might preserve not only what decisions were made during the creative process, but why those decisions were made, what contextual factors influenced them, and how they emerged through dialogue between maker and material. Rather than treating modifications and errors as noise to be eliminated, integrated documentation would preserve these elements as essential components of the creative narrative.
-
-This approach suggests developing documentation systems that operate more like historical chronicles than technical specifications, preserving the temporal development of creative works alongside their final geometric forms. The craftsperson's adaptive responses to unexpected material conditions, the designer's modifications based on emerging aesthetic possibilities, or the maker's integration of serendipitous discoveries would all be preserved as integral components of the documented work.
-
-**Workflow as Creative Medium**
-
-Integrated documentation also suggests treating workflow itself as a creative medium rather than merely instrumental procedure. Traditional craft practice operated through what might be called "workflow consciousness": awareness that the making process itself was part of the creative work rather than simply a means toward predetermined ends.
-
-Contemporary digital fabrication, by contrast, typically treats workflow as transparent procedure: a series of technical steps necessary to achieve geometric outcomes but not themselves creative elements. This instrumental view eliminates precisely the kinds of creative agency and adaptive authority that this research seeks to preserve.
-
-Treating workflow as creative medium would require developing systems that enable makers to express creative intention through their making processes as well as their material outcomes. The sequence of design decisions, the choice of fabrication approaches, the integration of adaptive responses, and the negotiation of material constraints would all be recognized as creative elements worthy of preservation and transmission.
-
-Conclusion: Beyond Access Toward Agency
-
-The investigation presented in this chapter reveals that current approaches to fabrication democratization, while successful in expanding tool access, have largely preserved the distributed agency architecture that fragments creative control and eliminates the embodied knowledge characteristic of traditional craft practice. Understanding democratization as potentially requiring structural transformation rather than mere access expansion suggests the need for alternative approaches that can preserve maker agency throughout the production process.
-
-The analysis of historical democratization precedents across education, media production, and political movements demonstrates that genuine democratization often requires reorganizing underlying processes rather than simply expanding access to existing systems. Applied to fabrication, this suggests that meaningful democratization may require developing workflow structures that preserve the continuous dialogue between maker and material that characterized traditional craft practice.
-
-The examination of current digital formats and documentation approaches reveals systematic limitations in preserving the intangible dimensions of craft knowledge: the embodied understanding, contextual adaptation, and temporal development that exist in the integrated relationship between maker, material, and context rather than as extractable information. These limitations suggest that preserving craft knowledge requires moving beyond geometric reduction toward representational frameworks that can encode reasoning, context, and adaptive decision-making alongside technical specifications.
-
-The concept of integrated documentation offers a potential pathway forward, treating workflow itself as a form of narrative documentation that can preserve the complete creative journey rather than only its material outcomes. This approach recognizes that the value of craft knowledge lies not simply in its geometric products but in the creative processes that generate those products, suggesting the need for systems that can preserve and transmit the full narrative of making rather than its abstracted results.
-
-The following chapter will examine how these theoretical insights might be translated into practical tools and workflows, exploring the development of software systems that can support integrated documentation while preserving maker agency throughout digital fabrication processes. Rather than accepting the distributed agency architecture as inevitable, this research will investigate how digital systems might be reorganized to restore the continuous creative dialogue that characterized traditional craft practice while leveraging the material capabilities of contemporary fabrication technologies.
+This represents a fundamental departure from current fabrication democratization approaches, which expand access to expert-designed systems while preserving the organizational structures that concentrate creative authority in separate design phases. True preservation-based democratization would require developing representational frameworks and workflow architectures that maintain creative agency throughout making processes, enabling the continuous dialogue between maker, material, and technology that characterizes living craft traditions.
 
 **Chapter 3:**
 
 **Chapter 4:**
+
+**Acknowledgements:**
+
+No AI has been used for content generation in this paper, though Grammarly was utilized as a grammar and spelling correction tool and DeepL was used to assist with translations from Spanish and Catalan into English.
 
   
 
@@ -303,6 +249,14 @@ The following chapter will examine how these theoretical insights might be trans
 - Mikhak et al. (2008) https://cba.mit.edu/events/03.05.fablab/fablab-dyd02.pdf
 
 - Tanenbaum et al. (2013) https://www.academia.edu/8093394/Democratizing_Technology_Pleasure_Utility_and_Expressiveness_in_DIY_and_Maker_Practice
+
+- Dahl (1989) https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2245&context=faculty_scholarship
+
+- Dahl (2017) https://www.amphilsoc.org/sites/default/files/2018-03/attachments/Dahl.pdf
+
+- Schumpeter (1950) https://archive.org/details/j.-schumpeter-capitalism-socialism-and-democracy
+
+- Pateman (1976) https://annas-archive.org/md5/3baf42f106bd928358cfe611d552c3eb
 
 Figure 1. Jorge Muñoz, _Leonhardt Lagoon_, Dallas, 1986.
 
