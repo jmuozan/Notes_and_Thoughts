@@ -34,6 +34,27 @@
 ## Thoughts
 
 
-<!--
+## List of things to reflect on:
+- [ ] The Craftsman
+- [ ] Designing Reality
+- [ ] When Things Start to Think
+- [ ] FAB
+- [ ] Arts & Crafts
+- [x] Craftinnova
+- [x] AI.RTISANSHIP
+- [ ] FAB CITY Hamburg Playbook
+- [ ] Roadmap to Replicators
+- [ ] .crft
+- [ ] Ars Post Faber
+- [ ] mAke Africa EU
+- [ ] make magazine FAB25 Talk
+- [ ] Massimo Banzi FAB25 Talk
+- [ ] AprenMaker HUB
+- [ ] FLA
+- [ ] DTecla
+- [x] Hives 
+- [ ] Amandine David
+- [ ] Made In platform
+- [ ] Artesanía digital
+- [ ] Artesanía y tecnología. De lo analógico a lo digital
 
--->
