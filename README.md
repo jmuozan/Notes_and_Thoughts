@@ -1,9 +1,13 @@
-# Notes & Thoughts on my Research
+# Notes & Thoughts
 
 
 ## Articles
 
 - [Archiving beehives through the ages, Hives opens the lid on our ancient relationship with the species](./Articles/Hives.md)
+
+## Papers
+
+- 
 
 ## Books
 
@@ -26,6 +30,8 @@
 ## Conferences
 
 - [Roadmap to Replicators](./Conferences/Roadmap_to_Replicators.md)
+
+## Thoughts
 
 
 <!--
