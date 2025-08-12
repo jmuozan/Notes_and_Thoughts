@@ -46,7 +46,7 @@ In this way, the workshop demonstrates that the essence of craftsmanship can sur
 
 > [!abstract] Directly Related Readings
 > [_The Craftsman_.](The_Craftsman.md) 
-> [AI.RTISANSHIP](../Personal_Projects/AI.RTISANSHIP.md)
+> [AI.RTISANSHIP](AI.RTISANSHIP.md)
 > [FAB](../Books/Fab.md)
 
 

@@ -6,7 +6,7 @@
 >
 > #preservation #conservation #crafts #machine_learning #computer_vision
 
-![Full_body.png](./IMG/Full_body.png)
+![Full_body.png](Full_body.png)
 
 At the intersection of tradition and technology, AI.RTISANSHIP attempts to analyze what characterizes artisanal work, if there is an essence to it, and if this essence can be transmitted. Using computer vision detection systems, different artisans were recorded using their craft technique on the pottery wheel, and then this data was used in a machine learning process with the aim of digitizing, preserving, and "teaching" this valuable cultural heritage.
 

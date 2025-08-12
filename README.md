@@ -22,10 +22,10 @@
 
 ## Personal Projects
 
-- [AI.RTISANSHIP](./Personal_Projects/AI.RTISANSHIP.md)
-- [AprenMaker HUB](./Personal_Projects/AprenMaker-HUB.md)
-- [Ars Post Faber](./Personal_Projects/ArsPostFaber.md)
-- [.crft](./Personal_Projects/crft.md)
+- [AI.RTISANSHIP](AI.RTISANSHIP.md)
+- [AprenMaker HUB](AprenMaker-HUB.md)
+- [Ars Post Faber](ArsPostFaber.md)
+- [.crft](crft.md)
 
 ## Conferences
 

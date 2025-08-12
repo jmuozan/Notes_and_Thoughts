@@ -52,7 +52,7 @@ Perhaps, the answer lies in understandong that preservation itself must evolve. 
 
 > [!abstract] Directly Related Readings
 > [_The Craftsman_.](The_Craftsman.md) 
-> [AI.RTISANSHIP](../Personal_Projects/AI.RTISANSHIP.md)
+> [AI.RTISANSHIP](AI.RTISANSHIP.md)
 
 
 
