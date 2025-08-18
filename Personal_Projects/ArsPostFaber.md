@@ -136,7 +136,7 @@ Before examining fabrication's current limitations, it becomes essential to inte
 
 **Democracy as Distributed Decision-Making Authority**
 
-Political democracy, at its core, requires the distribution of decision-making authority among participants rather than merely access to predetermined decision-making processes. As Robert Dahl's foundational analysis demonstrates, democratic systems must provide "effective participation" (Dahl, 1989) where citizens have " basic political rights and liberties, such as free expression, and allows persons to live under laws of their own choosing" (Dahl, 1989), and enlightened understanding enabling informed choice among alternatives. Crucially, democracy requires what Dahl terms "final control over the agenda" (Dahl, 2017), the authority to determine not just outcomes within predetermined options, but the capacity to define what questions get asked and how they are framed. This distinguishes genuine democratic participation from consultative processes that solicit input within predetermined parameters while concentrating agenda-setting authority elsewhere.
+Political democracy, at its core, requires the distribution of decision-making authority among participants rather than merely access to predetermined decision-making processes. As Robert Dahl's foundational analysis demonstrates, democratic systems must provide "effective participation" (Dahl, 1989) where citizens have "basic political rights and liberties, such as free expression, and allows persons to live under laws of their own choosing" (Dahl, 1989), and enlightened understanding enabling informed choice among alternatives. Crucially, democracy requires what Dahl terms "final control over the agenda" (Mayhew, 2017), the authority to determine not just outcomes within predetermined options, but the capacity to define what questions get asked and how they are framed. This distinguishes genuine democratic participation from consultative processes that solicit input within predetermined parameters while concentrating agenda-setting authority elsewhere.
 
 Applied to fabrication contexts, genuine democratization would require the distribution of creative decision-making authority throughout making processes rather than simply expanded access to predetermined fabrication procedures. Current maker spaces, despite their collaborative ethos, preserve what might be called 'fabrication autocracy' a concentrated creative authority in separate design phases, while relegating material execution to predetermined procedures that eliminate participant agency.
 
@@ -633,6 +633,52 @@ No AI has been used for content generation in this paper, though Grammarly was u
 
   
 
+  
+
+**Bibliography**
+
+Niedderer, K. (2024) “Embodied craft practices,” Routledge eBooks. doi: 10.4324/9781003328018-8.
+
+Taylor, F.W. (1911) _The principles of scientific management_. New York: Harper & Brothers. Available at: [https://archive.org/details/principlesofscie00taylrich/page/n5/mode/2up](https://archive.org/details/principlesofscie00taylrich/page/n5/mode/2up) (Accessed: 3 August 2025).
+
+Richardson, G. (2008) 'Medieval guilds', in Whaples, R. (ed.) _EH.Net Encyclopedia_. Available at: [https://eh.net/encyclopedia/medieval-guilds/](https://eh.net/encyclopedia/medieval-guilds/) (Accessed: 3 August 2025).
+
+Crane, W. (1892) _The claims of decorative art_. London: Lawrence and Bullen. Available at: [https://archive.org/details/claimsofdecorati00cran](https://archive.org/details/claimsofdecorati00cran) (Accessed: 3 August 2025).
+
+Ruskin, J. ([1911]) _The stones of Venice_, vol. 1. Boston: D. Estes & Co.
+
+Ruskin, J. (1892) _The nature of Gothic: a chapter of The stones of Venice_. Hammersmith: Kelmscott Press. Available at: [https://archive.org/details/natureofgothicch00rusk/page/n9/mode/2up](https://archive.org/details/natureofgothicch00rusk/page/n9/mode/2up) (Accessed: 5 August 2025).
+
+The Free Library (2014) 'William Morris - art and idealism', _The Free Library_. Available at: [https://www.thefreelibrary.com/William+Morris+-+art+and+idealism.-a018275725](https://www.thefreelibrary.com/William+Morris+-+art+and+idealism.-a018275725) (Accessed: 18 August 2025).
+
+Morris, W. (1882) 'The lesser arts of life', in _Lectures on art delivered in support for the Society for the Protection of Ancient Buildings_. London: Macmillan and Co., pp. 174-232. [Originally delivered as 'Some of the minor arts of life', Birmingham and Midlands Institute, Birmingham, 21 January 1882].
+
+Thomis, M.I. (1993) _The Luddites: machine-breaking in Regency England_. Modern revivals in economic and social history. Aldershot: Gregg Revivals. [Originally published in Library of textile history series, Newton Abbot: David & Charles, 1970].
+
+Byron, G.G. (1816) 'Song for the Luddites', _Union Songs_. Available at: [https://unionsong.com/u771.html](https://unionsong.com/u771.html) (Accessed: 5 August 2025).
+
+Hatch, M. (2013) _The maker movement manifesto: rules for innovation in the new world of crafters, hackers, and tinkerers_. New York: McGraw-Hill Education.
+
+Fab Foundation (2024) _Fab Foundation_. Available at: [https://fabfoundation.org/](https://fabfoundation.org/) (Accessed: 7 August 2025).
+
+Mikhak, B., Lyon, C., Gorton, T., Gershenfeld, N., McEnnis, C. and Taylor, J. (2002) 'Fab Lab: an alternate model of ICT for development'. Available at: [https://cba.mit.edu/events/03.05.fablab/fablab-dyd02.pdf](https://cba.mit.edu/events/03.05.fablab/fablab-dyd02.pdf) (Accessed: 20 July 2025).
+
+Tanenbaum, J.G., Williams, A.M., Desjardins, A. and Tanenbaum, K. (2013) 'Democratizing technology: pleasure, utility and expressiveness in DIY and maker practice', in _Proceedings of CHI 2013: Changing Perspectives_. Paris: ACM, pp. 2603-2612. doi: 10.1145/2470654.2481360.
+
+Coglianese, C. (1990) 'Review of _Democracy and its critics_ by Robert A. Dahl', _Michigan Law Review_, 88(6), pp. 1662-1667. Available at: [https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2245&context=faculty_scholarship](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=2245&context=faculty_scholarship) (Accessed: 12 August 2025).
+
+Mayhew, D. (2017) 'Robert A. Dahl: 17 December 1915 - 5 February 2014', _Proceedings of the American Philosophical Society_, 161(4), pp. 344-347. Available at: [https://www.amphilsoc.org/sites/default/files/2018-03/attachments/Dahl.pdf](https://www.amphilsoc.org/sites/default/files/2018-03/attachments/Dahl.pdf) (Accessed: 20 August 2025).
+
+Schumpeter, J.A. (1950) _Capitalism, socialism, and democracy_. 3rd edn. Available at: [https://archive.org/details/j.-schumpeter-capitalism-socialism-and-democracy](https://archive.org/details/j.-schumpeter-capitalism-socialism-and-democracy) (Accessed: 10 August 2025).
+
+Pateman, C. (1976) _Participation and democratic theory_. Structural Analysis in the Social Sciences. Cambridge: Cambridge University Press.
+
+Tran O'Leary, J., Ramesh, T., Zhang, O. and Peek, N. (2024) 'Tandem: reproducible digital fabrication workflows as multimodal programs', in _Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems_. Honolulu, HI: Association for Computing Machinery, article 334. doi: 10.1145/3613904.3642751.
+
+Barbosa, Ana & Isabel, Vale & Alvarenga, Dina. (2024). The use of Tinkercad and 3D printing in interdisciplinary STEAM education: A focus on engineering design. STEM Education. 4. 222-246. 10.3934/steme.2024014.
+
+Smith, Rachel & Iversen, Ole & Veerasawmy, Rune. (2016). Impediments to Digital Fabrication in Education: A Study of Teachers' Role in Digital Fabrication. International Journal of Digital Literacy and Digital Competence. 7. 33-49. 10.4018/IJDLDC.2016010103.
+
 - Niedderer & Townsend (2024) https://www.academia.edu/123675851/Embodied_craft_practices
 
 - Taylor (1919) https://archive.org/details/principlesofscie00taylrich/page/n5/mode/2up
@@ -674,7 +720,3 @@ No AI has been used for content generation in this paper, though Grammarly was u
 - Barbosa, A., Vale, I., & Alvarenga, D. (2024). The use of Tinkercad and 3D printing in interdisciplinary STEAM education: A focus on engineering design. _STEM Education_, 4(3), 222-246. doi: 10.3934/steme.2024014 https://www.researchgate.net/publication/381170021_The_use_of_Tinkercad_and_3D_printing_in_interdisciplinary_STEAM_education_A_focus_on_engineering_design
 
 - Smith & Iversen. (2016). Impediments to Digital Fabrication in Education: A Study of Teachers' Role in Digital Fabrication. DOI: 10.4018/978-1-5225-3417-4.ch017 https://www.researchgate.net/publication/303093020_Impediments_to_Digital_Fabrication_in_Education_A_Study_of_Teachers'_Role_in_Digital_Fabrication
-
-  
-
-**Bibliography**
