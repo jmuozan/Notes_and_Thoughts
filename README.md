@@ -7,7 +7,7 @@
 
 ## Papers
 
-- 
+- [Fab City Hamburg Playbook](./Papers/Fab_City_Hamburg_Playbook.md)
 
 ## Books
 
