@@ -1,6 +1,6 @@
 ## Nuevos Métodos de Aprendizaje Artesano
 
-> [!example] March 9th 2025 18:44
+> [!NOTE] March 9th 2025 18:44
 > [Work](https://www.craftinnova.es/)
 >
 > #preservation #conservation #crafts #machine_learning #computer_vision #3d #3d_printing

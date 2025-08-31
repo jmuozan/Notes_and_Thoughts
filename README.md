@@ -32,9 +32,9 @@
 
 - [Roadmap to Replicators](./Conferences/Roadmap_to_Replicators.md)
 
-## Thoughts
+## Workshops
 
-
+- [Craftinnova](./Workshops/Craftinnova.md)
 ## List of things to reflect on:
 - [ ] The Craftsman
 - [ ] Designing Reality

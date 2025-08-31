@@ -1,7 +1,7 @@
 ## AI.RTISANSHIP: Crafts preservation in the 4th (or 5th) Digital Revolution
 ### Jorge Muñoz Zanón
 
-> [!example] March 4th 2025 13:30
+> [!NOTE] March 4th 2025 13:30
 > [Work](https://www.itsnicethat.com/articles/apian-hives-publication-270522)
 >
 > #preservation #conservation #crafts #machine_learning #computer_vision
