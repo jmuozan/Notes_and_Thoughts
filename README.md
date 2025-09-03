@@ -47,7 +47,7 @@
 - [ ] Roadmap to Replicators
 - [ ] .crft
 - [ ] Ars Post Faber
-- [ ] mAke Africa EU
+- [ ] mAke Africa EUx
 - [ ] make magazine FAB25 Talk
 - [ ] Massimo Banzi FAB25 Talk
 - [ ] AprenMaker HUB

@@ -27,3 +27,5 @@ Con el fin de favorecer la conexion entre el cuerpo y la mente ¿cómo pueden se
 
 
 >"What comes after STL is nothing. What comes after it is networks... you don't want assumptions about what the machine is, you just want to expose the degrees of freedom and allow geometry to talk to those degrees of freedom." Gershenfeld N. (2023)
+
+

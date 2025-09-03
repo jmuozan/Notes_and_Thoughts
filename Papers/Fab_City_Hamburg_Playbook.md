@@ -171,6 +171,128 @@ From an urban planning perspective, the types of products that can be manufactur
 The first step is to strengthen local (circular) production capacities by directly supplying as many everyday goods as possible. At the same time, a global digital infrastructure must be developed to facilitate the free circulation of customizable designs and manufacturing instructions.
 
 ---
+## MULTI-SCALAR PRODUCTION
+
+The levels of Fab City Hamburg
+The Fab City Vision consists of a network of labs, workshops and factories that are spread across the city and the metropolitan region and produce goods for local needs. It ranges from open workshops for DIY projects over craft businesses and micro-factories to urban industry embedded in global production networks. At the same time, these physical spaces are connected to virtual global communities of practice and, ultimately, to the Fab City Global Initiative network. In an abstract sense, they collectively form a loosely connected "innovation space"?
+
+At the micro level, the OpenLabs are central, easily accessible and low-threshold places for anyone interested in repairing objects, learning design and production skills, working on their own challenges, and developing and testing new solutions within the framework of the real-world laboratory approach.
+
+At the meso level, the modular and programmable machines of micro-factories enable the flexible small-scale production of various everyday consumer goods.
+
+These goods are manufactured using adaptive digital fabrication technologies, tailored to local needs and resource availability. At the macro level, export-oriented production takes place on a larger scale
+
+On each level- whether micro, meso, or macro- value creation occurs at different scales and with different objectives. This is not a contradiction, but rather a strength of the approach.
+
+
+"The Fab City vision is also important from an economic policy perspective: decentralized labs everywhere that are open to everyone and linked to district cultural centers. This: has a huge social transformation potential in the medium term."
+
+each OpenLab has an individual focus and its own target group,
+
+The objectives of the labs - whether social integration, education, or technical innovation — as well as the sector-specific focus (from textiles to medical tech-nology) also determine the target groups to which a lab seeks spatial proximity.
+
+The establishment of OpenLabs, for example, as temporary uses in vacant buildings or commercial spaces could also help to revitalize neighborhoods and counteract the negative consequences of vacancies.
+
+---
+## Integration of labs into the urban structure
+
+A targeted, urban integration of open production workshops in suitable neighborhoods contributes significantly to the success of a lab.
+
+![](./IMG/Urban_structure_labs.JPG)
+
+----
+
+## THE CITY IN TRANSITION Use open spaces!
+
+Technological change and megatrends such as globalization and digitalization are reshaping urban functions and land use.
+
+The city center coordinator, Prof. Pahl-Weber, says:
+
+"Crafts and urban production are important. They support the mix of uses, make production chains visible, and are indispensable for creating a district in the city center where living within short distances is attractive."
+However, she also emphasizes that trade and production, which rely on heavy delivery traffic and generate noise, are not particularly well suited to the city center.
+She points out that Hamburg's city center is home to numerous craft businesses,
+
+These businesses, integrated into neighborhoods alongside residential areas, offices and retail, offer a glimpse into the workshops where the products sold in stores are made.
+
+Not least for children, these businesses play a key role in understanding the world- allowing them to see firsthand how the things that surround us every day are created.
+
+---
+
+House of Ali pursues an innovative model for sustainable fashion based on open-source principles and the idea of "commoning" — the shared use of resources.
+
+pursues the principle of cosmocalism: global data transfer and local produc-tion. This concept is based on the idea that knowledge and data are made accessible worldwide so that they can be used locally in an efficient and resource-saving manner.
+
+---
+
+This requires flexibility and patience, because principles such as open source are new and unfamiliar to many. The
+
+groundwork involved establishing structures and implementing tools that enable self-organization.
+
+Here, everyone can learn from each other and knowledge is readily shared — a central component of our commoning approach. Regular meetings and events continuously promote this exchange.
+
+---
+
+We generally rely on a train-the-trainer concept.
+
+Experienced members pass on their knowledge of machines and processes to others, thus promoting continuous training within the community.
+
+---
+
+We love to give, and this realization aligns with the concept of "generous cities",
+
+", as discussed by Felipe
+
+Schmidt Fonseca. His ideas resonate with the principle of "commoning": this is our waste, we are responsible for it, and we take care of ensuring that resources continue to circulate and be shared.
+
+This led us to a crucial insight:
+
+1. ﻿﻿﻿Recycling affects us all.
+2. ﻿﻿﻿Everyone has something to recycle.
+3. ﻿﻿﻿Recycling should be a collective responsibility, central to our actions and not marginalized.
+
+---
+## Qualification of specialists in the Hamburg metropolitan region
+
+Rapid technological change and advancing digitalization are fundamentally changing how we work and live. In this dynamic environment, the availability of skilled workers is becoming increasingly important for the economic progress and competitiveness of the Hamburg metropolitan region.
+
+Changes in how we work and live, be it through digitalization, the circular economy, or new work, can only succeed if the right specialists are available in the right place at the right time and collaboration extends beyond municipal, regional, and national borders, operating at the level of the metropolitan region.
+
+Demographic changes in particular are leading to a growing demand for skilled workers in the region. Already
+
+now there are no suitable jobseekers available for over 40 percent of the vacancies advertised by the Federal Employment Agency at specialist level. In addition, more people are generally willing to change jobs, which further increases the pressure on the labor market.
+
+The increasing demand for skilled workers is also seen in the longer vacancy period for open positions, which was at 124 days in 2020. Occupational groups particularly affected by the skilled labor shortage include mechanical and vehicle engineering, transportation and logistics, sales, non-medical health and personal care, and food production and processing.
+
+The metropolitan region also has an enormous need for qualified specialists and innovative expertise in the fields of mechatronics, energy and electrical protes-sions, IT, transport and logistics as well as medical healthcare professions.
+
+Crafts businesses in particular are dependent on qualified specialists to meet the increasing demands of the market and remain fit for the future. There are many reasons for this: the rapid development of new technologies requires continuous training and adaptation of skills. In addition, complex customer requirements demand that employees not only have specialist knowledge but also the ability to apply this knowledge flexibly and creatively.
+
+
+Despite the efforts of (vocational) schools to offer high-quality training, they are unable to comprehensively meet the growing demand for specialized professionals and innovative know-how. It is therefore of crucial importance that other educational institutions, companies, and research institutions actively contribute to the qualification of skilled workers. The OpenLab Mobile plays an important role in complementing the educational landscape of the Hamburg metropolitan region through its educational and innovation offerings in the field of digital manufacturing.
+
+---
+
+## LEARNING BY BUILDING!
+
+Experience-based learning as the key to technology transfer and skills development in digital manufacturing
+
+The debate about AI and data-driven value creation is currently omnipresent.
+
+Despite all the hype surrounding automation and the displacement of humans from value-creating processes,
+
+we must not forget: the physical objects we consume daily and surround ourselves with - essential elements of our cultural identity-will still need to be designed and produced by someone in the future-ideally without continuing to overstrain the planet's
+
+In this context, promoting skills in the use of digital production technologies and processes can prepare young people in particular for future challenges on the labor market. Teaching technical knowledge, a design-oriented mindset, collaborative problem solving skills, as well as a critical awareness of the impacts of economic practices, and related production methods should take on a more central role in educational programs.
+
+So far so good - but against this background, how can a modern learning setting be created that is open to large sections of the population?
+
+In the knowledge society, where the ability to share knowledge and collaborate with others is becoming increasingly important, open production sites (maker-spaces, Fab Labs, OpenLabs) provide a highly dynamic learning environment.
+
+
+Open production spaces as learning and training environments hold enormous, yet largely untapped potential. The positive feedback from participants is evident in their high level of personal engagement in learning and solving technical problems - as well as in the tangible results seen in the prototypes and machines they successfully created. In the future, production facilities could be a key driver in the training of skilled workers, the creation of innovations and the over-, coming of social dividing walls. They shape new forms, of learning, open up insights into design and production processes, and turn learners into designers, inventors and producers.
+
+---
+
 
 
 
