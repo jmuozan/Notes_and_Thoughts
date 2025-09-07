@@ -46,6 +46,16 @@
 - [ ] FAB CITY Hamburg Playbook
 - [ ] Roadmap to Replicators
 - [ ] .crft
+- [ ] Tools, Tricks and Hacks: Exploring Novel Digital Fabrication Workflows
+- [ ] Nothiung Like Compilation: How Professional Digital Fabrication Workflows Go Beyond Extruding, Milling and Machines
+- [ ] Remote Learners, Home Makers: How Digital Fabrication Was Taught Online During a Pandemic
+- [ ] The Fab City Full Stack: A Multiscalar Framework for Distributed Production Strategies in Citites and Regions
+- [ ] The use of TinkerCAD and 3D printing in interdisciplinary STEAM education: A focus on engineering design
+- [ ] Dynamic Toolchains: Software Infrastructure for Digital Fabrication Workflows
+- [ ] Impediments to Digital Fabrication in Education: A Study of Teachers' Role in Digital Fabrication
+- [ ] Tandem: Reproducible Digital Fabrication Workflows as Multimodal Programs
+- [ ] Democratizing Technology: Pleasure, Utility and Expressiveness in DIY and Maker Practice
+- [ ] Technical Mentality: Principles for HCI Research and Practice
 - [ ] Ars Post Faber
 - [ ] mAke Africa EUx
 - [ ] make magazine FAB25 Talk
@@ -60,7 +70,7 @@
 - [ ] Artesanía y tecnología. De lo analógico a lo digital
 
 
-
+<!--
 ## Papers List
 - https://depts.washington.edu/machines/projects/dynamic-toolchains/
 - https://depts.washington.edu/machines/projects/tandem/
@@ -94,3 +104,4 @@
 - https://www.researchgate.net/publication/320100693_Photoreactive_wearable_A_computer_generated_garment_with_embedded_material_knowledge
 - https://www.researchgate.net/publication/320840039_Merging_the_Physical_and_Digital_Layer_of_Public_Space_-_The_PobleJoc_Installation_Case_Study
 - https://www.researchgate.net/publication/309868106_Symbiotic_Associations
+-->
