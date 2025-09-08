@@ -293,6 +293,21 @@ Open production spaces as learning and training environments hold enormous, yet 
 
 ---
 
+Innovations have significantly shaped society since the Industrial Revolution. However, their impacts often only became clear after their introduction rather than being thoroughly assessed beforehand. This retrospective realization means that many innovations have unintended social and ecological effects that are not always positive.
+
+To tackle these challenges, the concept of Citizen Innovation (CI) is becoming increasingly important.
+
+CI aims to actively involve people in the innovation process and jointly decide on the potential consequences of innovations. Through this participatory approach, communities can ensure that innovations not only bring technological progress, but also promote social justice and ecological sustainability.
+
+A key aspect of CI is idea generation through idea competitions, also known as "Citizen Sourcing." (4)
+
+These competitions allow a large number of people to participate in the innovation process and contribute their creative solutions to specific problems.
+
+Including the public in innovation processes through idea competitions offers several benefits:
+
+- ﻿﻿First, they expand the pool of ideas by incorporating external knowledge and different perspectives that may not be available within a single organization.
+- ﻿﻿Second, they promote commitment and community participation, which leads to greater acceptance and support for the resulting solutions.
+- ﻿﻿Third, they are cost-efficient, as private individuas are often willing to contribute their ideas voluntarily and out of intrinsic motivation.
 
 
 
