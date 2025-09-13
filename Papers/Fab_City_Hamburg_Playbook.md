@@ -309,6 +309,31 @@ Including the public in innovation processes through idea competitions offers se
 - ﻿﻿Second, they promote commitment and community participation, which leads to greater acceptance and support for the resulting solutions.
 - ﻿﻿Third, they are cost-efficient, as private individuas are often willing to contribute their ideas voluntarily and out of intrinsic motivation.
 
+---
+
+## Intellectual property and OSH - a contradiction?
+
+Industrial property rights and copyrights (IP rights) may exist for both the OSH construction plan and the
+
+OSH documentation. IP rights grant their holders exclusive rights, allowing them to exclude third parties from using the protected subject matter. In the event of unauthorized use, the rights holders are entitled to injunctive relief, removal and, if applicable, compensa-tion. This is contrary to the very foundations of OSH: central to OSH is that OSH blueprints and associated documentation are made available in such a way that anyone can study, modify, distribute, manufacture, and sell them. Unlike the proprietary development of products or software, it is essential that this openness is maintained.
+
+
+Proper licensing is essential to prevent IP infringe-ments, as modifying documentation or implementing a technical plan could potentially violate IP rights.
+
+However, the target audience must be able to modify, distribute, and manufacture OSH blueprints and their accompanying documentation. Choosing the right license also helps prevent chilling effects — a legal phenomenon where laws or regulations have unintended consequences, causing individuals or organizations to refrain from exercising their legally guaranteed rights and freedoms due to fear of negative repercussions.
+
+Licensing eliminates legal uncertainties and reduces concerns about potential legal costs related to IP infringement claims.
+
+
+The most important regulatory aspect of a suitable OSH license is the chosen degree of the so-called "IP-left effect." This concept allows holders of IP rights to use their exclusive control over the protected material to keep their OSH project open. The play on words (IP right/IP left) illustrates the idea of "reversed use":
+
+IP rights are not used in the traditional way to exclude others, but rather the license is intended to enable as many people as possible to use the project. In addition, the license contains the obligation of the licensees to make the result of their own (further) development available under the same conditions that allowed them to use the OSH blueprint and the associated documentation.
+
+
+Open source is not synonymous with "free" in the sense that there are no copyrights, or the work may be used and distributed without the consent of the creator.
+
+
+
 
 
 >[!TIP] Citation

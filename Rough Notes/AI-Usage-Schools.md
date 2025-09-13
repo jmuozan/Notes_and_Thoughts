@@ -26,3 +26,7 @@ Conocimiento tecnológico
 
 Gamificación a través de scape room??
 
+
+Awareness-Motivation-Capability (AMC) framework
+
+
