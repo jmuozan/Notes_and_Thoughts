@@ -8,6 +8,8 @@
 ## Papers
 
 - [Fab City Hamburg Playbook](./Papers/Fab_City_Hamburg_Playbook.md)
+- [Technical Mentality: Principles for HCI Research and Practice](./Papers/Technical_Mentality.md)
+
 
 ## Books
 
