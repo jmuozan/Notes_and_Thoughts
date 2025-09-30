@@ -1,6 +1,13 @@
 # Technical mentality: Primciples for HCI Research and Practice
 
 
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+
 technical mentality, an onto-epistemology based on direct knowledge of technical objects and systems.
 
 ## Introduction
