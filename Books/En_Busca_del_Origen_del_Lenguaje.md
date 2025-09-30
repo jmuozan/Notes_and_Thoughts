@@ -35,9 +35,9 @@ El experimento de la galleta escondida ilustra esta capacidad: un niño ve cómo
 
 ### Definiendo qué significa "saber una lengua"
 
-El texto usa ejemplos prácticos para explorar esta cuestión. Los robots de atención telefónica (como el de la red ferroviaria sueca) pueden realizar tareas lingüísticas básicas, pero con limitaciones evidentes. Estos sistemas demuestran cierta comprensión, pero no dominan completamente una lengua humana.
+El texto usa ejemplos prácticos para explorar esta cuestión. Los robots de atención telefónica pueden realizar tareas lingüísticas básicas, pero con limitaciones evidentes. Estos sistemas demuestran cierta comprensión, pero no dominan completamente una lengua humana.
 
-La limitación fundamental no es la lengua en sí, sino **la capacidad para comprender situaciones y contextos**. Como señala el texto:
+La limitación fundamental no es la lengua en sí, sino **la capacidad para comprender situaciones y contextos**. Como señala el autor:
 
 > **"Su facultad para 'leer entre líneas' es muy limitada. No se les da nada bien la 'comunicación puzle', de modo que su lengua resulta poco natural."**
 
@@ -47,13 +47,11 @@ Un hallazgo crucial es que los robots lingüísticos más exitosos, como Google 
 
 ### Implicaciones para el origen del lenguaje
 
-El texto concluye que estas limitaciones robóticas revelan algo fundamental: **"la 'comunicación puzle' posee un papel fundamental en la lengua humana y [...] la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua."**
+Se puede concluir que estas limitaciones robóticas revelan que **"la 'comunicación puzle' posee un papel fundamental en la lengua humana y [...] la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua."**
 
 ## ¿Pueden los robots desarrollar lenguajes propios?
 
-### Una metodología experimental innovadora
-
-Desde los años noventa, investigadores como Jim Hurford y Luc Steels han utilizado robots para estudiar indirectamente el origen del lenguaje. El enfoque es ingenioso: en lugar de especular sobre las capacidades de nuestros ancestros, construyen robots con diferentes características y observan si pueden desarrollar sistemas comunicativos.
+Desde los años noventa, investigadores como Jim Hurford y Luc Steels han utilizado robots para estudiar indirectamente el origen del lenguaje. En lugar de especular sobre las capacidades de nuestros ancestros, construyen robots con diferentes características y observan si pueden desarrollar sistemas comunicativos.
 
 Los experimentos típicos involucran robots (físicos o virtuales) liberados en un entorno donde deben:
 
@@ -67,7 +65,7 @@ Un desafío clave es calibrar la capacidad lingüística inicial. Si no se les d
 
 ### Condiciones necesarias para el desarrollo del lenguaje
 
-Los experimentos han revelado requisitos fundamentales:
+requisitos fundamentales
 
 **1. Cooperación y confianza**
 
@@ -75,59 +73,12 @@ Los experimentos han revelado requisitos fundamentales:
 
 **2. Complejidad ambiental** Los robots necesitan **"un entorno lo bastante complejo y variopinto como para poder sacar provecho de las experiencias de cada uno."** Si el mundo es demasiado simple, un robot puede explorarlo completamente solo y la comunicación se vuelve innecesaria.
 
-### Conclusión sobre las interacciones
-
-El texto cierra con una síntesis poderosa:
+Por tanto
 
 > **"No se desarrolla una lengua si no hay cooperación ni una buena voluntad recíproca entre robots. Los resultados obtenidos gracias a ellos apoyan nuestra conclusión respecto de las mentiras: la confianza es una condición indispensable para el lenguaje humano. Eso y que haya temas de conversación."**
 
-Esta conclusión conecta los experimentos robóticos con la evolución del lenguaje humano, sugiriendo que la cooperación social, la confianza mutua y la necesidad de compartir información sobre un mundo complejo fueron los pilares fundamentales que permitieron el surgimiento del lenguaje en nuestra especie.
-
-# 1 ANIMALES, ROBOTS Y SERES CONSCIENTES + ¿PUEDEN LOS ROBOTS APRENDER LENGUAS? + ¿PUEDEN LOS ROBOTS DESARROLLAR LENGUAJES?
-
-¿PUEDEN LOS ROBOTS APRENDER LENGUAS?
-
-*Hasta qué punto pueden en realidad aprender una lengua?*
-
-La cuestión de si los robots son capaces de aprender lenguas posee varios niveles y emerge en diversos contextos distintos.
-
-Puede servir para ilustrar lo que queremos decir realmente con saber una lengua.
-
-La capacidad o incapacidad de los robots para aprender a entender y utilizar alguna lengua también puede decirnos algo acerca de qué cualidades necesita tener un ser vivo —y cuáles no— para poder aprender lenguas. Y, a su vez, puede arrojar luz respecto de las cualidades que tuvieron que haber poseído nuestros antepasados para poder desarrollar la primera proto-lengua cuando esta alzó el vuelo.
-
-Si llamas a la red ferroviaria sueca (SJ) e intentas reservar un billete de tren, puede que te responda un robot. Ese robot te preguntará dónde quieres ir y tratará de comprender tus
-respuestas, de manera que tú puedas recibir tu billete. La experiencia me dice que funciona regular, pero el robot no es un caso del todo perdido; pese a todo, algo parece entender. ¿Nos encontramos ante un robot que ha aprendido sueco?
-
-Otros robots nos dejan mudos con sus respuestas en diversos foros en línea. Son bastantes las páginas web que cuentan con robots que conversan de distinta manera. Puede ser mediante una función de chat en un servicio de atención al cliente que, en primera instancia, sea operado por robots, y también pueden ser robots de otra clase, que intenten mantener el orden en una sala de reuniones y que el tono sea apropiado.
-
-Hace algo más de 10 años, una canción titulada «Boten Anna» se convirtió en una plaga nacional, y hablaba precisamente de uno de esos robots propios de un chat. La historia que dio pie a la canción tiene que ver con que su autor se confundió y, cuando creía que estaba hablando con un robot, estaba en realidad hablando con una Anna humana.
-
-Los robots pueden, pues, apañárselas con tareas lingüísticas más sencillas, pero no con el manejo total de una lengua humana. Sin embargo, no parece que sea la lengua como tal la que, en primer lugar, les plantee limitaciones, sino más bien su capacidad para comprender situaciones y contextos, pues su facultad para «leer entre líneas» es muy limitada. No se les da nada bien la «comunicación puzle», de modo que su lengua resulta poco natural. Esto nos dice, por un lado, que la «comunicación puzle» posee un papel fundamental en la lengua humana y, por otro, que la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua.
-
-Merece la pena señalar que algunos robots lingüísticos con buenos resultados, como el traductor de Google, funcionan de una manera más semejante al paradigma conexionista, y aprenden idiomas a través de patrones estadísticos. Se ha probado a dotarlos de una gramática integrada y preprogramada, un módulo lingiístico «innato», pero con un éxito muy limitado.
-¿PUEDEN LOS ROBOTS DESARROLLAR UN LENGUAJE?
-
-Es bastante frecuente utilizar robots en la investigación sobre el origen del lenguaje. Pero aquí no se trata de robots que aprenden a entender lenguas humanas normales, sino que la cuestión versa, en su lugar, sobre si los robots pueden, por sí solos, desarrollar precursores sencillos de un lenguaje. El origen del lenguaje es difícil de estudiar de manera directa, puesto que carecemos de acceso tanto a la lengua de nuestros antepasados como a sus características en general. En lugar de intentar investigar en vano qué cualidades poseían en realidad nuestros ancestros que los prepararan para desarrollar un lenguaje, bastantes investigadores han elegido, en su lu-gar, utilizar los robots para ilustrar la misma cuestión, pero desde otro ángulo. Los investigadores construyen robots con distintas cualidades, dejan que traten de comunicarse entre sí y miran a ver cuáles son los resultados. En función de estos, se pueden extraer luego conclusiones acerca de qué cualidades precisan los robots para poder desarrollar algo semejante al lenguaje y, de manera indirecta, qué cualidades tuvieron que haber tenido nuestros ancestros cuando se desarrolló el len-guaje.
-
-Desde la década de los noventa, esos experimentos con robots han desempeñado un papel destacado en la investigación acerca del origen del lenguaje, tanto robots de software que viven por completo en el interior de ordenadores como robots físicos que se pasean por habitaciones de verdad. Jim
-
-Hurford, de la Universidad de Edimburgo, al que ya hemos conocido, fue uno de los pioneros, y otro de ellos fue Luc Steels, investigador belga en materia de inteligencia artifi-cial.
-
-Un experimento típico consiste en construir una serie de robots con determinadas cualidades. Luego, se liberan en una habitación por la que puedan pasear y, en la medida de sus capacidades, intentar comunicarse entre sí sobre lo que encuentran en ella. Puede tratarse de robots que ya desde un principio dispongan de un conjunto de señales
-incorporadas que puedan transmitirse unos a otros, y su tarea será entonces tratar de ponerse de acuerdo respecto del significado de diversas señales. También puede tratarse de robots equipados para producir luz o sonido, pero en los que no se haya programado qué cuenta como senal. En ese caso, se enfrentan a una labor más difícil: acordar primero qué es una señal, para luego consensuar el significado de
-
-cada una.
-
-Una cuestión complicada en esos experimentos es cómo dotar a los robots de la capacidad lingüística justa desde el principio. Si no se les incorpora facultad linguística alguna, no llegan a ninguna parte. Pero si es excesiva se esta «hacien-do trampa», se les está dando demasiado de balde, y que desarrollen un lenguaje cuando ya disponen de una capacidad innata para gestionarlo no resulta interesante como objeto de estudio. Se trata de un tira y afloja constante en los experimentos y, de vez en cuando, un motivo de fricción a la hora de interpretarlos.
-
-Sea como sea, un resultado muy evidente de estos experimentos es que fracasan por completo si los robots no cooperan entre ellos, si no comparten todos el objetivo de comunicarse, procuran ayudarse entre sí para conseguirlo y confían en que todos se afanan de verdad en sus intentos por comunicarse. Sin una base común, no se desarrolla nada en absoluto.
-
-Con que haya voluntad de cooperación, los robots se pueden constituir de muchas maneras distintas. Ahora bien, si los experimentos han de arrojar un desarrollo lingüístico visible, hace falta también que los robots tengan algo de lo que hablar.
-
-Necesitan un entorno lo bastante complejo y variopinto como para poder sacar provecho de las experiencias de cada uno. Si el mundo es demasiado sencillo, un robot puede examinarlo por completo él solo y, entonces, no se precisa comunicación alguna. Un mundo demasiado sencillo tampoco requiere ul lenguaje avanzado, por mucho que los robots quieran hablar
-
-Ese parece ser un requisito básico para el lenguaje. No se desarrolla una lengua si no hay cooperación ni una buena vo-
-Juntad recíproca entre robots. Los resultados obtenidos gracias a ellos apoyan nuestra conclusión respecto de las mentiras: la confianza es una condición indispensable para el lenguaje hu-mano. Eso y que haya temas de conversación.
+De acuerdo con los pilares fundamentales que permitieron el surgimiento del lenguaje en nuestra especie.
+*¿Existe confianza entre la inteligencia artificial y los humanos?* 
 
 # 2 EVOLUCIÓN + ADAPTACIÓN
 Una aclaración de las peculiaridades de las especies y de las lenguas
