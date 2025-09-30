@@ -1,6 +1,6 @@
 
 # En Busca del Origen del Lenguaje
-![[./IMG/En_Busca_del_Origen_del_Lenguaje.png]]
+![](./IMG/En_Busca_del_Origen_del_Lenguaje.png)
 
 > [!IMPORTANT]
 > ==30 Sept 2025==
