@@ -1,19 +1,11 @@
 
-> [!NOTE]
-> 30 Sept 2025
-> *En Busca del Origen del Lenguaje* -  **Sverker Johansson**
->  ***Tags:*** #language #crafts #artificial_inteligence #hci
-
-
+# En Busca del Origen del Lenguaje
+![[./IMG/En_Busca_del_Origen_del_Lenguaje.png]]
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> ==30 Sept 2025==
+> *En Busca del Origen del Lenguaje* -  **Sverker Johansson**
+>  ***Tags:*** #language #crafts #artificial_inteligence #hci
 
 # 1 ANIMALES, ROBOTS Y SERES CONSCIENTES + ¿PUEDEN LOS ROBOTS APRENDER LENGUAS? + ¿PUEDEN LOS ROBOTS DESARROLLAR LENGUAJES?
 ANIMALES, ROBOTS Y SERES CONSCIENTES
@@ -601,7 +593,7 @@ sión del valor que adquiere la diversidad lingüística que los que tenemos en 
 
 
 
-> [!cite]
+> [!NOTE]
 > ***Cite:***
 > @book{johansson2021busca,
   title     = {En busca del origen del lenguaje: Dónde, cuándo y por qué el ser humano empezó a hablar},
@@ -613,3 +605,15 @@ sión del valor que adquiere la diversidad lingüística que los que tenemos en 
   publisher = {Editorial Ariel},
   isbn      = {978-8434433229}
 }
+
+
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
