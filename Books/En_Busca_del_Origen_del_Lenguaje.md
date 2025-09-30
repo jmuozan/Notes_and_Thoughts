@@ -1,9 +1,10 @@
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> 30 Sept 2025
+> *En Busca del Origen del Lenguaje* -  **Sverker Johansson**
+>  ***Tags:*** #language #crafts #artificial_inteligence #hci
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -597,3 +598,18 @@ Al mismo tiempo, sin embargo, nos acercamos a una situación en la que la traduc
 
 Sea cual sea el camino que sigamos, deberá asentarse sobre un mejor conocimiento del lenguaje y una mayor compren-
 sión del valor que adquiere la diversidad lingüística que los que tenemos en la actualidad. Conocer el origen del lenguaje será importante para mejorar esa comprensión. Y ahí es donde yo intento aportar mi granito de arena.
+
+
+
+> [!cite]
+> ***Cite:***
+> @book{johansson2021busca,
+  title     = {En busca del origen del lenguaje: Dónde, cuándo y por qué el ser humano empezó a hablar},
+  author    = {Johansson, Sverker},
+  translator = {García, Neila},
+  year      = {2021},
+  month     = feb,
+  day       = {17},
+  publisher = {Editorial Ariel},
+  isbn      = {978-8434433229}
+}
