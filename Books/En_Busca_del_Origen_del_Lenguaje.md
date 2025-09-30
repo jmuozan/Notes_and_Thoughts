@@ -7,96 +7,102 @@
 > *En Busca del Origen del Lenguaje* -  **Sverker Johansson**
 >  ***Tags:*** #language #crafts #artificial_inteligence #hci
 
+# ANIMALES, ROBOTS Y CONSCIENCIA: REDEFINIENDO EL LENGUAJE
+
+## La consciencia como base del lenguaje
+
+Los ideales de Hockett indican que el lenguaje **se utiliza consciente y deliberadamente**. Pero esto puede llevar a cuestionar la comunicación animal: ¿una marmota que emite un grito de advertencia tiene intención real de avisar, o es un mero acto instintivo sin control consciente?
+
+Estas preguntas sugieren un debate filosófico sobre si los animales poseen intenciones, consciencia y libre albedrío, o si funcionan como autómatas biológicos programados genéticamente. La comparación con robots modernos, capaces de jugar ajedrez, "componer música" y realizar tareas complejas, hace aún más difícil descartar esta hipótesis mecanicista.
+
+Desde una perspectiva evolutiva, el dilema se intensifica. Los humanos, experimentamos la consciencia desde dentro (el "Pienso, luego existo"), pero provenimos de ancestros unicelulares sin intelecto aparente. **La consciencia, al igual que el lenguaje, tuvo que haber aparecido en algún punto de la evolución.**
+
+### Midiendo la consciencia: dos aproximaciones empíricas
+
+El texto identifica dos vías principales para estudiar la consciencia animal:
+
+**1. El autoconocimiento (prueba del espejo)** Los experimentos con espejos evalúan si un animal se reconoce a sí mismo. Se pinta una mancha en su frente mientras duerme; si al despertarse y verse en el espejo se toca la mancha, demuestra tener un concepto del "yo". Los niños humanos superan esta prueba alrededor de los dos años. Entre los animales, han tenido éxito simios (aunque no todos), delfines, orcas, elefantes y picas, lo que sugiere diferentes niveles de autoconsciencia.
+
+**2. La "teoría de la mente"** Esta facultad, crucial para el lenguaje, implica reconocer que otros también son seres pensantes con sus propias creencias y perspectivas. Como explica el autor:
+
+> **"Ser conscientes de la consciencia de los demás cobra importancia en nuestro uso del lenguaje: al expresarnos, tenemos siempre en cuenta cómo va a entender el oyente aquello que decimos, conforme al espíritu de la 'comunicación puzle', y esto presupone necesariamente que comprendemos que la otra persona es un ser consciente y pensante."**
+
+El experimento de la galleta escondida ilustra esta capacidad: un niño ve cómo se mueve una galleta de un tarro rojo a uno verde, pero otro personaje no lo ve. Antes de los cuatro años, los niños no pueden entender que el otro personaje buscará en el tarro rojo (donde cree que está), señalando el desarrollo gradual de esta habilidad cognitiva.
+
+**"¿Es suficiente la 'teoría de la mente' de los chimpancés como base para un protolenguaje? Cabe razonablemente pensar que sí: cuando los niños pequeños aprenden a hablar, su 'teoría de la mente' todavía se encuentra al mismo nivel que la de los chimpancés."**
+
+## ¿Cómo pueden los robots aprender lenguas?
+
+### Definiendo qué significa "saber una lengua"
+
+El texto usa ejemplos prácticos para explorar esta cuestión. Los robots de atención telefónica (como el de la red ferroviaria sueca) pueden realizar tareas lingüísticas básicas, pero con limitaciones evidentes. Estos sistemas demuestran cierta comprensión, pero no dominan completamente una lengua humana.
+
+La limitación fundamental no es la lengua en sí, sino **la capacidad para comprender situaciones y contextos**. Como señala el texto:
+
+> **"Su facultad para 'leer entre líneas' es muy limitada. No se les da nada bien la 'comunicación puzle', de modo que su lengua resulta poco natural."**
+
+### La importancia del aprendizaje estadístico
+
+Un hallazgo crucial es que los robots lingüísticos más exitosos, como Google Translate, **funcionan de manera semejante al paradigma conexionista, y aprenden idiomas a través de patrones estadísticos**. Los intentos de dotarlos de una gramática preprogramada (un "módulo lingüístico innato") han tenido éxito muy limitado, lo que cuestiona ciertas teorías sobre la adquisición del lenguaje humano.
+
+### Implicaciones para el origen del lenguaje
+
+El texto concluye que estas limitaciones robóticas revelan algo fundamental: **"la 'comunicación puzle' posee un papel fundamental en la lengua humana y [...] la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua."**
+
+## ¿Pueden los robots desarrollar lenguajes propios?
+
+### Una metodología experimental innovadora
+
+Desde los años noventa, investigadores como Jim Hurford y Luc Steels han utilizado robots para estudiar indirectamente el origen del lenguaje. El enfoque es ingenioso: en lugar de especular sobre las capacidades de nuestros ancestros, construyen robots con diferentes características y observan si pueden desarrollar sistemas comunicativos.
+
+Los experimentos típicos involucran robots (físicos o virtuales) liberados en un entorno donde deben:
+
+- Explorar el espacio
+- Intentar comunicarse sobre lo que encuentran
+- Acordar significados para señales (o incluso acordar qué cuenta como señal)
+
+### El dilema del diseño experimental
+
+Un desafío clave es calibrar la capacidad lingüística inicial. Si no se les da ninguna, no progresan; si se les da demasiada, el experimento pierde validez. **"Se trata de un tira y afloja constante en los experimentos y, de vez en cuando, un motivo de fricción a la hora de interpretarlos."**
+
+### Condiciones necesarias para el desarrollo del lenguaje
+
+Los experimentos han revelado requisitos fundamentales:
+
+**1. Cooperación y confianza**
+
+> **"Un resultado muy evidente de estos experimentos es que fracasan por completo si los robots no cooperan entre ellos, si no comparten todos el objetivo de comunicarse, procuran ayudarse entre sí para conseguirlo y confían en que todos se afanan de verdad en sus intentos por comunicarse. Sin una base común, no se desarrolla nada en absoluto."**
+
+**2. Complejidad ambiental** Los robots necesitan **"un entorno lo bastante complejo y variopinto como para poder sacar provecho de las experiencias de cada uno."** Si el mundo es demasiado simple, un robot puede explorarlo completamente solo y la comunicación se vuelve innecesaria.
+
+### Conclusión sobre las interacciones
+
+El texto cierra con una síntesis poderosa:
+
+> **"No se desarrolla una lengua si no hay cooperación ni una buena voluntad recíproca entre robots. Los resultados obtenidos gracias a ellos apoyan nuestra conclusión respecto de las mentiras: la confianza es una condición indispensable para el lenguaje humano. Eso y que haya temas de conversación."**
+
+Esta conclusión conecta los experimentos robóticos con la evolución del lenguaje humano, sugiriendo que la cooperación social, la confianza mutua y la necesidad de compartir información sobre un mundo complejo fueron los pilares fundamentales que permitieron el surgimiento del lenguaje en nuestra especie.
+
 # 1 ANIMALES, ROBOTS Y SERES CONSCIENTES + ¿PUEDEN LOS ROBOTS APRENDER LENGUAS? + ¿PUEDEN LOS ROBOTS DESARROLLAR LENGUAJES?
-ANIMALES, ROBOTS Y SERES CONSCIENTES
-
-Uno de los rasgos que Hockett atribuyó al lenguaje era que se utilizaba consciente y deliberadamente. Pero ¿que pasa con la comunicación entre los animales? ¿Acaso saben lo que están haciendo al comunicar? Si una marmota emite un grito de advertencia al acercarse un ave rapaz diurna, ¿tiene, entonces, intención de avisar a las demás? ¿O se trata de un mero instinto sobre el cual las marmotas carecen de un control consciente?
-
-Son preguntas no muy fáciles de responder, ni desde un punto de vista filosófico ni empírico. En el plano filosófico nos adentramos en cuestiones relativas, por ejemplo, a si los animales poseen intenciones, si son conscientes y si disponen de algo parecido a ese libre albedrío con que a nosotros, los humanos, nos gusta creer que contamos.
-
-¿O son los animales como robots, meros mecanismos que ejecutan el comportamiento para el que han sido programados genéticamente? Habida cuenta de lo que los robots han sido capaces de lograr en los últimos años, no es muy fácil descartar la idea de que los animales sean, en ese caso, como robots. Los robots —y ahí incluyo tanto robots físicos que van correteando por el mundo real como meros robots de software que solo corretean por Internet— juegan al ajedrez mejor que los humanos, son capaces de componer música clásica, escri-
-
-compañía.
-
-bir historias, aspirar la casa y hasta actuar como animales de Algunos robots se han construido para imitar el comportamiento de los animales y, al menos por lo que respecta a los
-bichos, funcionan bien. Es posible programar un robot para que haga todo aquello de lo que es capaz un escarabajo. Tene-yor consciencia que el robot?
-
-mos, pues, alguna razón para creer que este último posee maMe vale que sea así con los escarabajos; no me preocupa demasiado que no sean más que robots o zombis que corretean por ahí sin saber lo que hacen. Pero resulta más difícil cuando se trata de animales más semejantes a nosotros. Queremos creer que nuestras mascotas poseen algún tipo de cons-ciencia: si miras a tu perro a los ojos, ¿a que seguro que sientes como si hubiera alguien ahí dentro que te estuviera devolviendo la mirada?
-
-Desde una perspectiva evolutiva, este asunto se vuelve deli-cado. Nos percibimos por dentro como seres conscientes: no-sotros, los humanos, somos el ejemplo evidente del «Pienso, luego existo» cartesiano. Y el «yo» de esa famosa expresión de Descartes apenas puede ser otro que un ser consciente. Pero, al mismo tiempo, provenimos de unos antepasados con un intelecto más limitado y, si nos remontamos algunos miles de millones de años en la historia, encontramos ancestros unicelulares de los que no cabe razonablemente pensar que tuvieran intelecto de ningún tipo y que a duras penas pudieron haber sido seres conscientes, no más de lo que lo es hoy una ameba.
-
-La consciencia, igual que el lenguaje, tuvo que haber aparecido en algún punto del viaje.
-
-Pero ¿cuándo surgió la consciencia y cómo podemos saber-lo? Difícilmente se puede acceder a ella desde fuera, y Descartes no ayuda en absoluto al observador externo. ¿Podemos en realidad saber si nuestros congéneres también son seres cons-cientes? Damos por sentado que las demás personas son más o menos como nosotros, pero, en sentido estricto, lo único que sabemos es que, vistas desde fuera, demuestran todos los signos externos de tener más o menos la misma vida interior que nosotros mismos experimentamos desde dentro. Por lo que respecta a otros animales, la consciencia es una cuestión filosófica aún más compleja, acerca de la cual ha reflexionado, entre otros, el filósofo Thomas Nagel en su influyente artículo «What
-Is it like to Be a Bat?» de 1974? El interrogante que da título al artículo podría traducirse como «¿Qué se siente al ser un mur-ciélago?» y Nagel lo concibe como una clave para tratar el asunto de la consciencia: la pregunta «¿Qué se siente:» solo cobra sentido respecto de seres dotados de consciencia. Un ser que carece de consciencia no siente nada. Preguntar
-
-«¿Qué se siente al ser un platelminto?» tiene mas o menos el mismo sentido que preguntar «¿Qué se siente al ser un corta-césped?». Pero, en cuanto a los murciélagos, la respuesta no
-
-es evidente.
-
-Si dejamos a un lado la filosofía, hay dos vías empíricas principales por lo que respecta a la consciencia de los animales.
-
-Una se centra en el autoconocimiento, es decir, en si el animal tiene idea de su propia existencia. La otra se centra, en cam-bio, en si el animal trata a otros animales como si fueran seres conscientes y pensantes.
-
-Una manera habitual de probar el autoconocimiento de los animales consiste en examinar si se reconocen ante un espejo. Si capto que ese ser que veo en el espejo soy yo, entonces debo de tener un concepto del yo, una especie de consciencia de mí mismo como individuo. Al realizar un experimento de ese tipo, el animal puede acceder primero a un espejo durante un rato, para familiarizarse con cómo funcionan en general los espejos. A continuación, se duerme al animal y se le pinta una mancha de color en la frente o en alguna otra parte que el animal no pueda ver sin ayuda del espejo. Al despertarse, se mirará antes o después en el espejo y se dará cuenta de que el ser reflejado presenta una mancha en la frente. Si el animal empieza entonces a frotarse su propia frente, se puede extraer la conclusión de que comprende que se está viendo a sí mismo en el espejo, y de que posee algún concepto del yo.
-
-3. chttp://www.philosopher.eu/others-writings/nagel-what-is-it-like
-
--to-be-a-bat/> [Hay trad. cast.: <https:/ /www.icesi.edu.co/blogs/experi mentosmentales/files/2010/03/Qu%C3%A9-se-siente-ser-un-murcie
-
-lago-Nagel.pdf.]
-Se ha sometido a distintos animales a esa prueba del espejo.
-
-Los niños humanos tienden a superarla en torno a los dos años de edad. Muchos simios también la superan, pero no todos. El resultado puede variar hasta dentro de la misma especie: algunos gorilas lo consiguen, mientras que otros no. Lo que cabe inferir no es que solo algunos gorilas sean conscientes de su propia existencia, sino que el resultado no es del todo fácil de interpretar. Además de simios, también han obtenido un aprobado delfines, orcas, elefantes y picas. Los elefantes lo resolvieron sin problema; fueron, por el contrario, los investigadores quienes se enfrentaron a grandes dificultades para producir un espejo lo bastante grande y, al mismo tiempo, a prueba de elefantes: hubo que emplear unos cuantos antes de dar con una solución.
-
-Los humanos partimos habitualmente de que las demás personas también son seres pensantes, y tenemos en cuenta ideas ajenas en nuestros planes y razonamientos. A menudo nos dedicamos a algo así como un ajedrez social, en el que debatimos varias jugadas futuras. Si hago esto, entonces ella va a creer que yo creo que ella sabe el secreto, y entonces va a hacer esto, lo cual me lleva a la conclusión de que ella piensa... y así sucesivamente. Cabe señalar que cada una de esas jugadas parte de la premisa de que la otra persona también es un ser pensante, con unos pensamientos y una concepción de la realidad propios, incluida una idea propia respecto de cómo
-
-pienso yo.
-
-Ser conscientes de la consciencia de los demás cobra importancia en nuestro uso del lenguaje: al expresarnos, tenemos siempre en cuenta cómo va a entender el oyente aquello que decimos, conforme al espíritu de la «comunicación puzle», y esto presupone necesariamente que comprendemos que la otra persona es un ser consciente y pensante. El lenguaje a duras penas se habría desarrollado en un ser que no percibiese a sus semejantes como seres conscientes y pensantes, pues
-
-¿por qué iba uno a intentar comunicarse con un zombi?
-
-Es por eso que esta facultad para ver la consciencia ajena
-
--que en inglés se llama theory of mind, y traducida al español
-como «teoría de la mente»—* es un requisito para el desarrollo
-
-del lenguaje.
-
-¿Razonan los animales de la misma manera? Los niños pe-queños, desde luego, no; los humanos precisamos alcanzar los cuatro o cinco años para poder entender plenamente razonamientos en torno a la consciencia ajena. Una de las últimas cuestiones en adquirirse es, a menudo, la capacidad para comprender que otras personas puedan tener una visión de la realidad distinta a la propia. A los niños pequenos les cuesta muchísimo captar que otra persona no sepa algo que ellos si saben. En numerosas ocasiones, se han acometido distintas versiones del siguiente experimento: Un niño ve una grabación que muestra una sala en la que hay una mesa, con varios tarros de diferentes colores, y dos personas —amémoslas Anna y Bengt— que ven los tarros. Entra una tercera persona en la sala y coloca una galleta en el tarro rojo. Bengt sale de la habitación, mientras que Anna se queda dentro. La que escondió la galleta vuelve a entrar y, ahora, tiene la picardía de cambiar la galleta del tarro rojo al verde. Tanto Anna como el niño lo ven, pero Bengt no. Luego vuelve a entrar este último y quiere una galleta. La pregunta es: ¿en qué tarro va a buscar primero Bengt?
-
-Para nosotros, como adultos capaces de comprender la visión que tienen los demás de la realidad, la respuesta es bastante evidente: Bengt ha visto cómo introducían la galleta en el tarro rojo, pero no que la movieran de allí. Por eso, sigue pensando que está en el tarro rojo y es ahí donde busca primero.
-
-El niño sabe que la galleta está en el tarro verde. Antes de cumplir cuatro años, no consigue disociar su conocimiento al razonar acerca de la búsqueda de Bengt y, por eso, dice que logra resolverlo.
-
-Bengt va a buscar en el tarro verde. Un nino un poco mayor sí
-
-4. En inglés se la denomina a veces mind reading, pero si hablamos de «leer la mente» en español, fácilmente pensamos en los sinuosos senderos de la parapsicología. También se utiliza mentalizing, traducido al español como «mentalización».
-Ese experimento en concreto es difícil de realizar con animales (o con niños muy pequeños), pues requiere que el sujeto que se está examinando pueda decir qué cree que va a hacer Bengt.
-
-Pero se han realizado otros experimentos y, después de numerosos fracasos y callejones sin salida, los investigadores han podido demostrar que, al menos, los chimpancés se perciben entre ellos como seres pensantes y comprenden que otro chimpancé pueda tener una visión de la realidad distinta a la suya propia.
-
-¿Puede uno concebir a otro como ser pensante sin ser él mismo un ser consciente y pensante? Y más pertinente aún para el origen del lenguaje: ¿es suficiente la «teoría de la men-te» de los chimpancés como base para un protolenguaje? Cabe razonablemente pensar que sí: cuando los niños pequeños aprenden a hablar, su «teoría de la mente» todavía se encuentra al mismo nivel que la de los chimpancés.
 
 ¿PUEDEN LOS ROBOTS APRENDER LENGUAS?
 
-Volvamos a girarnos hacia los robots y zombis inconscientes a los que nos referíamos en la sección anterior, y preguntémonos hasta qué punto pueden en realidad aprender una lengua.
+*Hasta qué punto pueden en realidad aprender una lengua?*
 
 La cuestión de si los robots son capaces de aprender lenguas posee varios niveles y emerge en diversos contextos distintos.
 
-Se solapa en algunos puntos con el interrogante acerca de si los animales pueden aprender lenguas, y puede servir para ilustrar lo que queremos decir realmente con saber una lengua.
+Puede servir para ilustrar lo que queremos decir realmente con saber una lengua.
 
 La capacidad o incapacidad de los robots para aprender a entender y utilizar alguna lengua también puede decirnos algo acerca de qué cualidades necesita tener un ser vivo —y cuáles no— para poder aprender lenguas. Y, a su vez, puede arrojar luz respecto de las cualidades que tuvieron que haber poseído nuestros antepasados para poder desarrollar la primera proto-lengua cuando esta alzó el vuelo.
 
 Si llamas a la red ferroviaria sueca (SJ) e intentas reservar un billete de tren, puede que te responda un robot. Ese robot te preguntará dónde quieres ir y tratará de comprender tus
-respuestas, de manera que tú puedas recibir tu billete. La expe riencia me dice que funciona regular, pero el robot no es un caso del todo perdido; pese a todo, algo parece entender. ¿Nos encontramos ante un robot que ha aprendido sueco?
+respuestas, de manera que tú puedas recibir tu billete. La experiencia me dice que funciona regular, pero el robot no es un caso del todo perdido; pese a todo, algo parece entender. ¿Nos encontramos ante un robot que ha aprendido sueco?
 
-Otros robots nos dejan mudos con sus respuestas en diver sos foros en línea. Son bastantes las páginas web que cuentan con robots que conversan de distinta manera. Puede ser mediante una función de chat en un servicio de atención al chen-te que, en primera instancia, sea operado por robots, y también pueden ser robots de otra clase, que intenten mantener el orden en una sala de reuniones y que el tono sea apropiado.
+Otros robots nos dejan mudos con sus respuestas en diversos foros en línea. Son bastantes las páginas web que cuentan con robots que conversan de distinta manera. Puede ser mediante una función de chat en un servicio de atención al cliente que, en primera instancia, sea operado por robots, y también pueden ser robots de otra clase, que intenten mantener el orden en una sala de reuniones y que el tono sea apropiado.
 
 Hace algo más de 10 años, una canción titulada «Boten Anna» se convirtió en una plaga nacional, y hablaba precisamente de uno de esos robots propios de un chat. La historia que dio pie a la canción tiene que ver con que su autor se confundió y, cuando creía que estaba hablando con un robot, estaba en realidad hablando con una Anna humana.
 
-Los robots pueden, pues, apañárselas con tareas lingüísticas más sencillas, pero no con el manejo total de una lengua huma-na. Sin embargo, no parece que sea la lengua como tal la que, en primer lugar, les plantee limitaciones, sino más bien su capacidad para comprender situaciones y contextos, pues su facultad para «leer entre líneas» es muy limitada. No se les da nada bien la «comunicación puzle», de modo que su lengua resulta poco natural. Esto nos dice, por un lado, que la «comu-nicación puzle» posee un papel fundamental en la lengua humana y, por otro, que la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua.
+Los robots pueden, pues, apañárselas con tareas lingüísticas más sencillas, pero no con el manejo total de una lengua humana. Sin embargo, no parece que sea la lengua como tal la que, en primer lugar, les plantee limitaciones, sino más bien su capacidad para comprender situaciones y contextos, pues su facultad para «leer entre líneas» es muy limitada. No se les da nada bien la «comunicación puzle», de modo que su lengua resulta poco natural. Esto nos dice, por un lado, que la «comunicación puzle» posee un papel fundamental en la lengua humana y, por otro, que la facultad para ensamblar el puzle fue importante a fin de que nuestros ancestros pudieran desarrollar la protolengua.
 
 Merece la pena señalar que algunos robots lingüísticos con buenos resultados, como el traductor de Google, funcionan de una manera más semejante al paradigma conexionista, y aprenden idiomas a través de patrones estadísticos. Se ha probado a dotarlos de una gramática integrada y preprogramada, un módulo lingiístico «innato», pero con un éxito muy limitado.
 ¿PUEDEN LOS ROBOTS DESARROLLAR UN LENGUAJE?
@@ -586,10 +592,9 @@ lación o imposición culturales de los que son objeto sus ha-
 
 ¿Qué futuro se vislumbra para las lenguas del mundo? Una tendencia evolutiva que se viene apreciando desde hace bas tante tiempo es que las lenguas más grandes adquieren cada vez más hablantes mientras que las pequenas terminan por de-saparecer, tendencia que se acentúa a medida que nuestra comunicación se vuelve cada vez mas global. Nuestras conversaciones ya no se restringen a los limites de nuestro pequeño pueblo, sino que podemos y queremos hablar con personas que viven en la otra punta del planeta, y para ello necesitamos una lengua común. Si esa tendencia continúa, puede que lleguemos a una situación en la que solo se hablen una o unas pocas lenguas en el mundo. ¿Es eso lo que queremos?
 
-Al mismo tiempo, sin embargo, nos acercamos a una situación en la que la traducción automática empieza a ser tan potente que hablar lenguas distintas deja de ser un problema tan grande, pues no por ello dejamos de entendernos. En plataformas como Facebook, a veces participo en conversaciones que se desarrollan en ruso o tagalo pese a no dominar ninguno de esos idiomas, y todo gracias a que la plataforma se asegura de que la conversación fluya, y lo hace bastante bien. ¿Es este otro futuro posible, en el que la tecnología vendrá al rescate para salvar el problema lingüístico a fin de que cada uno pueda hablar la lengua que quiera y, aun así, entenderse? Puede que sea demasiado optimista, pues tener que depender por completo de toda una infraestructura informática para nuestra comunicación diaria hará del mundo un lugar mucho más vulnerable. Pero ¿cual es la alternativa? ¿Una sola lengua mundial —y, en ese caso, cual— o dar marcha atrás en el proceso de globalización y ence-irarnos de nuevo en burbujas de filtros nacionales y lingüisti-cos? Ninguna de esas dos opciones me resulta atractiva.
+Al mismo tiempo, sin embargo, nos acercamos a una situación en la que la traducción automática empieza a ser tan potente que hablar lenguas distintas deja de ser un problema tan grande, pues no por ello dejamos de entendernos. En plataformas como Facebook, a veces participo en conversaciones que se desarrollan en ruso o tagalo pese a no dominar ninguno de esos idiomas, y todo gracias a que la plataforma se asegura de que la conversación fluya, y lo hace bastante bien. ¿Es este otro futuro posible, en el que la tecnología vendrá al rescate para salvar el problema lingüístico a fin de que cada uno pueda hablar la lengua que quiera y, aun así, entenderse? Puede que sea demasiado optimista, pues tener que depender por completo de toda una infraestructura informática para nuestra comunicación diaria hará del mundo un lugar mucho más vulnerable. Pero ¿cual es la alternativa? ¿Una sola lengua mundial —y, en ese caso, cual— o dar marcha atrás en el proceso de globalización y ence-irarnos de nuevo en burbujas de filtros nacionales y lingüisticos? Ninguna de esas dos opciones me resulta atractiva.
 
-Sea cual sea el camino que sigamos, deberá asentarse sobre un mejor conocimiento del lenguaje y una mayor compren-
-sión del valor que adquiere la diversidad lingüística que los que tenemos en la actualidad. Conocer el origen del lenguaje será importante para mejorar esa comprensión. Y ahí es donde yo intento aportar mi granito de arena.
+Sea cual sea el camino que sigamos, deberá asentarse sobre un mejor conocimiento del lenguaje y una mayor comprensión del valor que adquiere la diversidad lingüística que los que tenemos en la actualidad. Conocer el origen del lenguaje será importante para mejorar esa comprensión. Y ahí es donde yo intento aportar mi granito de arena.
 
 
 
@@ -606,11 +611,6 @@ sión del valor que adquiere la diversidad lingüística que los que tenemos en 
   isbn      = {978-8434433229}
 }
 
-
-
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
 > [!WARNING]
 > Urgent info that needs immediate user attention to avoid problems.
