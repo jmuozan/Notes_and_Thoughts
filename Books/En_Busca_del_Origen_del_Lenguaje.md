@@ -189,25 +189,21 @@ Cuando existía el protosapiens, seguramente se hablaban muchas otras lenguas si
 
 # PROGRAMACIÓN, LENGUAJES Y LA DIVERSIDAD LINGÜÍSTICA
 
-## Las preguntas fundamentales de Chomsky
+## Las preguntas de Chomsky
 
-El texto comienza con dos interrogantes planteados por Noam Chomsky sobre el origen del lenguaje: **"¿Por qué existe el lenguaje?" y "¿Por qué existen tantas lenguas diferentes?"** Mientras la mayor parte del libro aborda la primera pregunta, la segunda resulta igualmente reveladora.
+**"¿Por qué existe el lenguaje?" y "¿Por qué existen tantas lenguas diferentes?"**
 
-La observación es intrigante: otros animales poseen sonidos más o menos innatos y similares entre miembros de su especie. Los gatos maúllan igual en todos los países, los perros ladran igual en todos los países. Entonces, **¿por qué los modos de manifestación lingüística del ser humano no son innatos, de tal manera que todos hablemos parecido?**
+Otros animales poseen sonidos más o menos innatos y similares entre miembros de su especie. Los gatos maúllan igual en todos los países, los perros ladran igual en todos los países. Entonces, **¿por qué los modos de manifestación lingüística del ser humano no son innatos, de tal manera que todos hablemos parecido?**
 
-La implicación es profunda: si el lenguaje tuviera como único objeto una transmisión clara y comprensible de información entre todos los seres humanos, **es muy probable que no contáramos con 7.000 lenguas distintas**.
+Si el lenguaje tuviera como único objeto una transmisión clara y comprensible de información entre todos los seres humanos, **es muy probable que no contáramos con 7.000 lenguas distintas**.
 
-## La analogía con los lenguajes de programación
 
-### Un laboratorio conocido
 
-El texto propone una comparación reveladora con los lenguajes de programación. Existen casi 1.000 lenguajes distintos además de numerosos dialectos, y crucialmente, **sabemos mucho más acerca de cómo han surgido de lo que sabemos sobre las lenguas humanas comunes**.
+Existen casi 1.000 lenguajes de programación distintos además de numerosos dialectos, y **sabemos mucho más acerca de cómo han surgido de lo que sabemos sobre las lenguas humanas comunes**.
 
 Todos estos lenguajes están diseñados para un fin determinado. El patrón típico es que **una persona o grupo se encuentren insatisfechos con los lenguajes existentes y piensen "esto podría hacerlo mejor yo"**, construyendo así un nuevo lenguaje que mejora algún aspecto irritante de los existentes.
 
-### ¿Las lenguas humanas surgen por diseño?
-
-La pregunta crucial: **¿Es de verdad así como surgen las lenguas humanas: con una persona que se sienta y se pone a diseñar una nueva lengua?**
+Por tanto, ¿Las lenguas humanas surgen por diseño? yendo más allá, **¿Es de verdad así como surgen las lenguas humanas: con una persona que se sienta y se pone a diseñar una nueva lengua?**
 
 La respuesta es que hay unas pocas que sí se originaron así, **pero son casos excepcionales**. Las más conocidas son lenguas auxiliares internacionales:
 
@@ -220,35 +216,23 @@ La respuesta es que hay unas pocas que sí se originaron así, **pero son casos 
 
 Estas lenguas se construyeron con el objetivo específico de facilitar la comunicación entre personas con distintas lenguas maternas. Difieren de las lenguas orales habituales por **haber sido diseñadas conscientemente con el objetivo de ser fáciles de aprender, con reglas sencillas y sin formas irregulares ni excepciones**.
 
-### El caso del esperanto
-
-El esperanto logró cierta difusión: hoy cuenta con algunos millones de hablantes. Más fascinante aún, pese a ser una lengua puramente artificial, **es el idioma materno de unas 1.000 personas: niños que crecieron en hogares donde sus padres hablaban en esperanto**.
-
-El hallazgo es significativo: estos niños han aprendido esperanto de la misma manera que otros aprenden lenguas habituales, y **ha funcionado de maravilla: no se ha percibido nada digno de mención en el desarrollo lingüístico de esos niños**. Esto demuestra que **la capacidad lingüística del ser humano es totalmente capaz de gestionar idiomas artificiales**, posiblemente porque los niños adaptaron la lengua de la misma manera que con las lenguas de signos o los pidgins.
-
-### Lenguas diseñadas para otros fines
-
-Existen también lenguas creadas con propósitos distintos a la comunicación internacional. Algunas se han diseñado para mundos de fantasía literarios: **klingon, quenya y dothraki** son ejemplos de lenguas del todo funcionales de las que se imparten cursos.
-
-Un caso especialmente interesante es el **láadan**, construido por la lingüista y autora de ciencia ficción Suzette Haden Elgin como parte de un experimento en favor de la igualdad de género. **La idea subyacente era que las lenguas humanas al uso estaban demasiado imbuidas de las estructuras de poder patriarcales de la sociedad, y que una lengua igualitaria, diseñada por y para las mujeres, había de tener un aspecto completamente distinto**.
+El esperanto logró cierta difusión: hoy cuenta con algunos millones de hablantes. Pese a ser una lengua puramente artificial, **es el idioma materno de unas 1.000 personas: niños que crecieron en hogares donde sus padres hablaban en esperanto**.
+Estos niños han aprendido esperanto de la misma manera que otros aprenden lenguas habituales, y **ha funcionado de maravilla: no se ha percibido nada digno de mención en el desarrollo lingüístico de esos niños**. Esto demuestra que **la capacidad lingüística del ser humano es totalmente capaz de gestionar idiomas artificiales**, posiblemente porque los niños adaptaron la lengua de la misma manera que con las lenguas de signos.
 
 ### Diseño en la lengua escrita vs. oral
 
 La lengua escrita y su ortografía sí suelen estar diseñadas conscientemente. Las diferencias ortográficas entre el inglés americano y británico son, en gran medida, obra de Noah Webster, quien en 1828 publicó un diccionario influyente simplificando deliberadamente la ortografía (por ejemplo, de _plough_ a _plow_).
 
-Por el contrario, como señala el texto:
+Por el contrario, como señala el autor:
 
 > **"La lengua oral común rara vez parte de un diseño consciente. Las cualidades de la lengua oral surgen, en su gran mayoría, de una interacción —principalmente inconsciente— entre todos los hablantes de la lengua."**
 
 ## Los mecanismos de la diversificación lingüística
 
-### El proceso temporal
-
 Todas las lenguas se transforman gradualmente con el tiempo. Ocasionalmente, lo que fue una sola lengua se divide en varias que ya no resultan mutuamente comprensibles. **Pero lleva mucho tiempo, por lo menos algún milenio**. El hecho de que hayan surgido miles de lenguas nos dice que **este proceso viene produciéndose desde hace bastante, por lo menos desde hace decenas de miles de años**.
-
 ### Tres componentes de la fragmentación lingüística
 
-El texto identifica tres mecanismos distintos que explican por qué las lenguas se dividen:
+Existen tres mecanismos distintos que explican por qué las lenguas se dividen:
 
 **1. Aislamiento geográfico**
 
@@ -268,120 +252,31 @@ Es bastante común en las sociedades modernas a gran escala que **distintas subc
 
 En tiempos remotos, antes de la agricultura, las sociedades no eran lo bastante grandes para albergar subculturas. Lo que probablemente ocurría era que dos tribus vecinas se enemistaran y empezaran a **utilizar la lengua como una herramienta más para diferenciar el Nosotros de Ellos**. Procuraban realzar las diferencias dialectales existentes para que las variantes lingüísticas se volvieran más singulares y, tras suficientes generaciones enemistadas, quizá ya no se entendieran ni siquiera lingüísticamente. **Habían aparecido dos nuevas lenguas y conservado, tal vez, su carácter único mediante pruebas literalmente iguales a las del shibbolet bíblico**.
 
-## El nacionalismo y las lenguas nacionales
-
-### La paradoja de la uniformización
-
-Un fenómeno paradójico que también puede producir escisiones lingüísticas es el afán por lenguas nacionales uniformes que trajo el auge del nacionalismo como movimiento político a finales del siglo XVIII y principios del XIX.
-
-Países como Francia o Suecia intentaron implantar un francés o sueco estándares como lengua común de la nación, sirviéndose sobre todo de las escuelas primarias emergentes. Esto pudo tener importancia para la unidad nacional y la comunicación interna, pero **al mismo tiempo, separó los dialectos que se hablaban en las fronteras entre naciones**.
-
-> **"Había (y, con bastante frecuencia, hay) un claro afán político por crear fronteras lingüísticas bien marcadas en lugar del continuo dialectal que siempre ha habido."**
-
-### Los límites del modelo monolingüe
-
-En Francia y Suecia había muchos dialectos distintos, pero no era descabellado afirmar que en conjunto integraban una misma lengua, permitiendo implantar una lengua nacional sin que nadie se viera obligado a cambiar de idioma. Por supuesto, en París y Estocolmo se eligió ignorar que se hablaba vasco, sami y otras lenguas minoritarias, pero **el cuidado de las minorías jamás fue prioritario para los nacionalistas**.
-
-Sin embargo, **un monolingüismo casi total tal como el de Suecia y Francia no ha sido nunca lo habitual en los países del mundo**. La mayoría cuenta con una serie de lenguas nacionales distintas, además de aquellas que los migrantes han traído consigo. No es difícil encontrar países donde se hablan más de 100 lenguas nacionales diferentes.
-
-La conclusión es clara: **Los intentos de imponer lenguas nacionales en esa clase de países no están exentos de fricción**.
-
-## Síntesis: diversidad como característica esencial
-
-El texto revela que la diversidad lingüística no es un accidente ni un problema a resolver, sino una característica inherente al lenguaje humano. A diferencia de los lenguajes de programación, que se diseñan racionalmente para optimizar la comunicación, las lenguas humanas emergen de procesos sociales complejos donde la identidad grupal, el aislamiento, las influencias externas y las dinámicas de poder juegan roles fundamentales.
-
-La existencia de 7.000 lenguas diferentes sugiere que el lenguaje no sirve únicamente para transmitir información, sino también para construir y mantener identidades sociales, marcar pertenencias grupales y, paradójicamente, tanto para unir comunidades como para diferenciarlas de otras.
-
 # ADAPTACIÓN, COMPORTAMIENTO E INSTINTOS LINGÜÍSTICOS
-
-## El comportamiento precede a la adaptación genética
-
-El texto comienza con un ejemplo revelador de los osos polares, que evolucionaron a partir de osos pardos durante la última glaciación en zonas cercanas al estrecho de Bering. Lo crucial es **el orden en que ocurrió**:
 
 > **"Los osos modificaron en primer lugar su comportamiento, comenzaron a cazar pinnípedos primero, y luego se adaptaron genéticamente, a lo largo de miles de años, hasta mejorar en ese nuevo estilo de vida que ya tenían en marcha."**
 
 Este patrón es completamente normal en animales con repertorio conductual flexible. **La flexibilidad conductual da pie a que los comportamientos a menudo puedan cambiar de antemano, con adaptaciones genéticas a posteriori.**
 
-### Aplicación al ser humano y al lenguaje
-
 Esta flexibilidad conductual se aplica también al ser humano. Los inuits viven en las mismas zonas que los osos polares con dieta similar, y también se han adaptado genéticamente con cambios menores en proporciones anatómicas para soportar mejor el frío. El orden fue el mismo: **primero subieron por el Ártico y luego se adaptaron genéticamente a lo largo de numerosas generaciones, una vez que ya estaban allí**.
 
-La implicación para el lenguaje es significativa: **los cambios de comportamiento suelen darse primero, motivados por el entorno, y la adaptación evolutiva del legado viene después. También es posible que el lenguaje —al menos un protolenguaje— pudo haberse producido así**.
+**Los cambios de comportamiento suelen darse primero, motivados por el entorno, y la adaptación evolutiva del legado viene después. También es posible que el lenguaje pudo haberse producido así**.
 
-## El debate sobre el "instinto lingüístico"
-
-### La propuesta de Pinker
+## "instinto lingüístico"
 
 Steven Pinker tituló su éxito de ventas _El instinto del lenguaje: cómo crea el lenguaje la mente_ y afirmó que nuestra capacidad lingüística no era más que un instinto, igual que los pájaros poseen la capacidad de volar o los castores la de construir diques.
 
-Sin embargo, **los investigadores ni siquiera están de acuerdo en si existe en realidad un instinto así en sentido razonable, y menos aún —en caso de ser cierto— respecto de aquello de lo que consta**.
+**Los investigadores ni siquiera están de acuerdo en si existe en realidad un instinto así en sentido razonable, y menos aún, en caso de ser cierto, respecto de aquello de lo que consta**.
 
 ### Tres líneas divisorias fundamentales
 
-El texto identifica tres debates centrales entre investigadores:
+Existen debates centrales entre investigadores:
 
 **1. ¿Cuánto es innato?** Hasta qué punto nuestra capacidad lingüística es innata y qué es, en ese caso, lo innato.
 
 **2. ¿Específico o general?** Si las capacidades innatas que utilizamos para las lenguas se han desarrollado precisamente para el lenguaje, o si son **facultades más generales que utilizamos tanto para las lenguas como para otros fines**.
 
 **3. El dilema del huevo y la gallina** ¿Tenía que haber ya una capacidad lingüística antes de que pudiéramos articular una palabra, o es una adaptación evolutiva posterior nuestra como seres ya parlantes, igual que les ocurrió a los osos polares?
-
-### El problema de la ubicación cerebral
-
-Una dificultad importante en relación con los instintos lingüísticos es que **la ubicación del lenguaje en el interior del cerebro no es fija**. Como se mencionaba anteriormente, los niños pueden aprender una lengua aun cuando la parte del cerebro que habitualmente se dedica a gestionarla se les haya extirpado de bebés.
-
-Al mismo tiempo, un instinto lingüístico innato debe estar albergado en alguna parte del cerebro: **los instintos tienen que construirse a partir de redes concretas de neuronas que rijan el comportamiento instintivo**.
-
-> **"El hecho de que el lenguaje pueda estar gestionado por diversos puntos del cerebro parece indicar que no exige redes específicamente lingüísticas ya programadas en el cerebro, sino que puede emplear estructuras nerviosas más generales, ubicadas en numerosas partes del cerebro. Esto se opone a la existencia de algún instinto lingüístico innato a gran escala y específicamente desarrollado para el lenguaje."**
-
-## Dos paradigmas en conflicto
-
-### El paradigma chomskyano
-
-**Noam Chomsky y algunos lingüistas** consideran que lo innato es la gramática: nacemos con un módulo gramatical incorporado en la cabeza, con estructuras adheridas al cerebro para efectuar análisis gramaticales conforme a las reglas comunes y generales de las lenguas. **En ese contexto, el lenguaje no sería posible sin la gramática innata, que tuvo que haber existido antes que el lenguaje**.
-
-### El paradigma funcionalista
-
-**Otros investigadores, sobre todo dentro del paradigma funcionalista**, tienen imágenes totalmente distintas del fundamento biológico de la capacidad lingüística humana:
-
-- No ven la gramática como la parte fundamental del lenguaje de la misma manera que Chomsky
-- Se centran más en **la lengua como sistema social, utilizado para la comunicación y la interacción social y que se aprende, de niño, en un contexto social**
-- **No existe una gramática innata en sentido estricto**
-- El lenguaje se construye ante todo a partir de **capacidades intelectuales y sociales generales, que en sí mismas pueden ser total o parcialmente innatas**
-- Esas capacidades se utilizan para todo tipo de cosas, no solo para lenguas, y **no se han desarrollado específicamente con fines lingüísticos. Por eso, no constituyen un instinto lingüístico**.
-
-## Instintos lingüísticos en los que convienen la mayoría
-
-Si queremos encontrar instintos lingüísticos en los que convengan la mayoría de los investigadores, debemos mirar **cómo los niños pequeños comienzan a aprender lenguas**. Los bebés cuentan con varias capacidades importantes que parecen ser innatas:
-
-### 1. Distinción de las lenguas desde el nacimiento
-
-**Ya desde el nacimiento, son capaces de distinguir las lenguas de otros sonidos y prestan más atención a ellas** que al resto de los sonidos que oyen. Empiezan a escuchar las lenguas ya en el vientre materno: al nacer pueden diferenciar la lengua de su madre —incluso cuando la habla alguien ajeno a ella— de otras lenguas. Parece tratarse de **un instinto para reunir los cimientos con los que aprender su idioma materno**.
-
-### 2. El balbuceo
-
-**Balbucir también parece ser un instinto, con miras a practicar los sonidos de la lengua**. Los bebés de seis meses balbucean y escuchan su propio balbuceo para perfeccionar su capacidad de pronunciar los sonidos pertinentes. Inicialmente balbucean con todos los sonidos posibles, pero después reducen su balbuceo a los sonidos de su lengua materna.
-
-Fascinantemente, **también balbucean los bebés sordos; de dos maneras distintas**:
-
-- Un bebé sordo comienza a balbucir con la voz, pero dado que no puede oír su propio balbuceo, no va afinando los sonidos y el balbuceo no se desarrolla
-- Si los padres emplean lengua de signos, el bebé **empieza a balbucir con las manos**, a ejercitarse con las formas de la mano de la lengua de signos, igual que los bebés con capacidad auditiva lo hacen con los sonidos
-
-### 3. Instintos sociales
-
-Los bebés también parecen poseer **una serie de instintos sociales específicamente humanos que les facilitan la labor de entablar una interacción social**, lo cual facilita a su vez el aprendizaje de idiomas:
-
-- Los recién nacidos aprenden casi al instante a reconocer la cara de su madre (la voz ya la reconocen desde el útero)
-- Pueden reconocer rasgos faciales humanos desde el primer día
-- Diferencian expresiones faciales (alegre vs. triste)
-
-### 4. El "instinto interaccional"
-
-El investigador estadounidense John Schumann identifica **"the interactional instinct" (el instinto interaccional)**, que trata más de la motivación que de la capacidad: **los bebés humanos quieren interactuar instintivamente con sus padres y otros miembros de su entorno**.
-
-Los bebés comienzan a mantener contacto visual y a imitar tan pronto como les es posible motrizmente, y también empiezan pronto a adoptar turnos sociales. **Los chimpancés y otros simios carecen por completo del mismo nivel de interacción social** con sus recién nacidos que poseemos nosotros.
-
-> **"En conjunto, todo esto integra un paquete completo de instintos que dotan a los humanos recién nacidos de una vía rápida de acceso a la interacción social humana. Los distintos componentes del paquete facilitan la conexión social y motivan al bebé a ser una parte activa en su incipiente interacción social. Esa vía rápida de entrada a la interacción social se convierte también, más adelante, en una vía rápida hacia el lenguaje."**
 
 ## La atención conjunta: clave para el lenguaje
 
@@ -399,43 +294,14 @@ En sus primeros años, un niño se afana por aprender todas las palabras de la l
 
 **Gavagai** es una palabra inventada por el filósofo estadounidense W. V. Quine en 1960. Si alguien dice "¡Gavagai!" cuando un conejo pasa corriendo en una lengua que te resulta desconocida, **¿cómo puedes saber a qué se refiere el hablante?** ¿Significa "conejo", o acaso "alimento", "vayámonos de caza", "orejas de conejo", "mamífero" o cualquier otra cosa?
 
-### La solución infantil en dos partes
-
-**Parte 1: Atención conjunta** Si el niño y el hablante han prestado atención conjunta a algo, el niño podrá inferir tranquilamente que a eso se refiere el hablante.
-
-**Parte 2: Nivel conceptual** Todo en este mundo se puede nombrar a diversos niveles. ¿Se trata de un animal, vertebrado, mamífero, lagomorfo, conejo, conejo europeo, conejo macho sueco, o el individuo Pelle? ¿O un ecosistema, herbívoros, conjunto de conejos, un conejo, orejas de conejo, oído medio, osículos auditivos?
-
-**Los niños de todo el mundo realizan suposiciones concretas respecto del nivel al que se está haciendo referencia**, y los adultos se adaptan a esas suposiciones infantiles:
-
-- Cuando oyen una nueva palabra con atención conjunta dirigida hacia algo nuevo, **suelen partir de un nivel medio dentro de la jerarquía**
-- Parten de que la nueva palabra se refiere a **un individuo completo, no a un grupo ni a una parte**
-- Ambos casos equivalen al nivel de la palabra "conejo"
-
-> **"El consenso entre niños y adultos por lo que respecta al nivel en que, en primera instancia, se ha de nombrar las cosas pudo haber sido resultado de una adaptación mutua; pero ese nivel de consenso coincide notoriamente en distintas culturas de todo el mundo, lo cual plantea el interrogante de si aquí también nos encontramos ante algo congénito."**
-
-Más adelante, cuando conocen la palabra del nivel de partida, pueden aprender palabras para otros niveles. En sentido más amplio, si ya conocen palabras para determinados aspectos de la atención conjunta, **parten de que una nueva palabra designará un nuevo aspecto o nivel que no se expresan con las palabras que ya saben**.
-
-### Herramientas innatas pero no específicamente lingüísticas
-
-> **"Un niño dispone, pues, de herramientas bastante eficaces para resolver el problema de gavagai, herramientas que probablemente sean, al menos en parte, innatas, aun cuando sea difícil demostrarlo. La capacidad de participar en la atención conjunta es una llave que abre las puertas de gran parte de la comprensión lingüística."**
-
-Sin embargo, la conclusión es crucial: **la atención conjunta no es algo específicamente lingüístico, sino que se utiliza en todas las formas de colaboración humana**. Si necesitas ayuda para levantar algo pesado y alguien está a tu lado, la mayoría de las veces bastará con establecer atención conjunta hacia ese objeto pesado para que te echen una mano, sin comunicación lingüística alguna.
-
-> **"Es adecuado, pues, buscar las raíces de la atención conjunta entre las raíces de la voluntad de ayuda propia del ser humano."**
-
-Esta conclusión refuerza el paradigma funcionalista: las capacidades que sustentan el lenguaje no son instintos lingüísticos específicos, sino capacidades sociales y cognitivas generales que evolucionaron para la cooperación humana y que posteriormente se aprovecharon para el desarrollo del lenguaje.
-
 # LAS PRIMERAS LENGUAS: CARACTERÍSTICAS MÍNIMAS Y EVOLUCIÓN
 
 ## La diversidad actual y el origen común
 
-El texto comienza reconociendo la inmensa riqueza lingüística actual: miles de idiomas con miles de diferencias. Sin embargo, hay un denominador común crucial: **todas las lenguas actuales conocidas poseen su capacidad casi infinita para expresar los pensamientos humanos**. Todas cuentan con vocabulario y matices gramaticales suficientes para expresar todo lo que pasa por la mente de sus hablantes.
+miles de idiomas con miles de diferencias. Sin embargo, hay un denominador común: **todas las lenguas actuales conocidas poseen su capacidad casi infinita para expresar los pensamientos humanos**. Todas cuentan con vocabulario y matices gramaticales suficientes para expresar todo lo que pasa por la mente de sus hablantes.
 
 > **"No hay, en la actualidad, una lengua materna que uno pueda tachar razonablemente de más sencilla o más 'primitiva' que otra, al igual que ningún humano moderno es, hoy día, más primitivo que otro desde el punto de vista biológico."**
 
-### El contraste con el pasado
-
-Pero antaño las cosas eran distintas. **Antaño había personas sin una capacidad humana plena en términos lingüísticos e intelectuales. ¿Cómo eran sus lenguas?** No es fácil saberlo, pero podemos abordar la pregunta reflexionando sobre qué características de las lenguas actuales son absolutamente necesarias, de cuáles se podría prescindir y cuáles podrían ser diferentes.
 
 ## ¿De qué características puede prescindir una lengua?
 
@@ -455,7 +321,7 @@ Y la lista de propiedades universales de todas las lenguas:
 - Las reglas gramaticales se aplican a sintagmas, no a palabras individuales
 - Todas pueden transmitir cantidad ilimitada de ideas distintas
 
-### Evaluando cada característica
+### Evaluando características
 
 **1. Uso consciente (rasgo 6 de Hockett)**
 
@@ -592,8 +458,6 @@ De ser holística, la protolengua habría dado lugar a una **lengua reducida que
 
 La idea es que expresiones holísticas cuyo significado se solapaba parcialmente por azar también adoptaban formas semejantes, y ese solapamiento podría permitir que las palabras holísticas se escindieran en subpalabras con significados atómicos, reanalizándose como estructura gramatical. **Para que esto funcione se necesita una buena dosis de pura suerte y que nuestros antepasados decidieran cambiar por completo de perspectiva y empezar a desensamblar una lengua que funcionaba perfectamente.**
 
-### Conclusión del autor
-
 > **"Por eso, no me parece que la teoría relativa a una protolengua holística sea una alternativa realista, sino que sigo partiendo del supuesto de que la protolengua fue atómica. Las primeras palabras tendrían más o menos la misma extensión que las palabras modernas."**
 
 ## La primera gramática
@@ -606,27 +470,11 @@ Esta conclusión refuerza la idea de que el lenguaje humano comenzó como un sis
 
 # DISPERSIÓN, DIVERSIDAD Y FUTURO DEL LENGUAJE
 
-## La expansión del Homo sapiens y la extinción de otras lenguas humanas
-
-El texto sitúa el momento crucial: **el Homo sapiens se extendió por todo el mundo y, más o menos al mismo tiempo, se extinguieron todas las demás especies humanas**. Las lenguas que hablaban los neandertales y los denisovanos desaparecieron con ellos, de la misma manera que, todavía hoy, desaparecen lenguas indígenas en todo el mundo.
-
-### El cronograma de la dispersión
-
-Los Homo sapiens empezamos a extendernos fuera de África hace apenas 100.000 años, y **ya entonces éramos hablantes plenos de lenguas modernas plenas, con todos sus matices gramaticales y todas las adaptaciones biológicas para el lenguaje**.
-
-**Primera oleada (hace ~50.000 años)** Llegó a Australia y sus hablantes se convirtieron en los antepasados de los aborígenes y papúes actuales. De camino se encontraron con neandertales y denisovanos, y debieron pasar por el territorio de los "hobbits" en la isla de Flores, aunque no dejaron rastro genético.
-
-**Segunda oleada** Se expandió por Europa y Asia, desplazando o absorbiendo a los neandertales y denisovanos que ya vivían allí.
-
-**Llegada a América** Poco a poco, cuando el manto de hielo continental lo permitió, también llegaron a América.
-
 ### El origen de la diversidad lingüística actual
 
 > **"Todos esos emigrantes llevaban consigo sus respectivas lenguas de África, pero cuando se extendieron y colonizaron distintos territorios, esas lenguas pronto evolucionaron en sentidos diferentes y, a través de un largo proceso de evolución cultural y distintas olas de colonización y conquistas en distintas direcciones, terminaron por dar lugar a los miles de lenguas diferentes que se hablan hoy día."**
 
-## La curva de la diversidad lingüística
 
-El texto revela un dato sorprendente sobre la trayectoria histórica:
 
 > **"Sin embargo, a lo largo de la historia la diversidad lingüística no ha hecho más que disminuir año tras año. Según se cree, el número de lenguas habladas en el mundo alcanzó su punto álgido hace algo más de 10.000 años, antes de que se inventara la agricultura y pudieran surgir civilizaciones a gran escala."**
 
@@ -645,8 +493,6 @@ Si esta tendencia continúa, puede que lleguemos a una situación en la que solo
 ### Escenario 2: Traducción automática como salvación
 
 Al mismo tiempo, nos acercamos a una situación en la que **la traducción automática empieza a ser tan potente que hablar lenguas distintas deja de ser un problema tan grande**, pues no por ello dejamos de entendernos.
-
-El autor ofrece un ejemplo personal:
 
 > **"En plataformas como Facebook, a veces participo en conversaciones que se desarrollan en ruso o tagalo pese a no dominar ninguno de esos idiomas, y todo gracias a que la plataforma se asegura de que la conversación fluya, y lo hace bastante bien."**
 
@@ -668,11 +514,6 @@ Este sería un futuro posible en el que **la tecnología vendrá al rescate para
 El texto concluye con una llamada a la acción intelectual:
 
 > **"Sea cual sea el camino que sigamos, deberá asentarse sobre un mejor conocimiento del lenguaje y una mayor comprensión del valor que adquiere la diversidad lingüística que los que tenemos en la actualidad. Conocer el origen del lenguaje será importante para mejorar esa comprensión. Y ahí es donde yo intento aportar mi granito de arena."**
-
-Esta conclusión conecta elegantemente todo el libro: comprender cómo surgió el lenguaje —como sistema cooperativo, dependiente del contexto social, construido sobre capacidades cognitivas generales y transmitido culturalmente— nos ayuda a valorar la diversidad lingüística actual y a tomar decisiones más informadas sobre su futuro.
-
-El autor no ofrece respuestas definitivas sobre qué camino deberíamos seguir, pero sí subraya que cualquier decisión debe basarse en un conocimiento profundo del lenguaje como fenómeno evolutivo, social y cultural, no meramente como herramienta de comunicación.
-
 
 
 > [!NOTE]

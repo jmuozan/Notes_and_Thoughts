@@ -44,8 +44,8 @@
 - [ ] When Things Start to Think
 - [ ] FAB
 - [ ] Arts & Crafts
-- [x] Craftinnova
-- [x] AI.RTISANSHIP
+- [ ] Craftinnova
+- [ ] AI.RTISANSHIP
 - [ ] FAB CITY Hamburg Playbook
 - [ ] Roadmap to Replicators
 - [ ] .crft
@@ -66,7 +66,7 @@
 - [ ] AprenMaker HUB
 - [ ] FLA
 - [ ] DTecla
-- [x] Hives 
+- [ ] Hives 
 - [ ] Amandine David
 - [ ] Made In platform
 - [ ] Artesanía digital
