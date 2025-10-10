@@ -72,3 +72,22 @@ El coneixement incomplet porta a formular preguntes que es plantegin «i si...»
 La faula d'Isop La guineu i el raïm n'és un exemple clàssic. La guineu veu un gotim de raim molt enlaire, tant que no hi pot arri-bar; com que no pot agafar-lo, decideix que no val la pena men-jar-se'l perquè segurament és verd, tot i no tenir manera de saber-ho. La faula és l'origen de la dita que descriu aquesta manera de pensar, la frustració de no aconseguir el que volíem es justifica amb el pensament «de fet, tampoc no ho volia». Però en realitat, la guineu sí que ho vol: i si el raim caigués a terra, el devoraria amb fanes. Una manera de sortir d'aquest destret, escriu Festinger, és que «la persona intenti reduir la dissonància i assolir la consonàn-cia». Aquesta mentalitat pot voler dır que «quan la dissonancia és present, a més d'intentar reduir-la, la persona evitarà activament situacions 1 intormacions que probablement incrementarien la dis-sonància». Aquest és l'aspecte negatiu de la dissonancia cognitiva: el subjecte evita sempre que pot les complexitats que comporta.
 
 
+
+---
+
+Si mires un mapa, saps que hi ha una gasolinera a mil metres d'on ets, però això només és una xifra, has de fer personalment alguna mena d'esforç físic per tal de decıdır si la gasolinera és a prop teu o lluny de tu. Evidentment, la gent no pot camınar mıl metres,1 encaramenys deuquilometres.
+
+cada cop que vol fer servir les paraules «lluny» i «a prop». Lussault argumenta que, si bé això és cert, en algun moment del desenvolu-pament de la persona hi ha un esforç tísic que dona sentit al nom-bre que representa «lluny» o «a prop», encara que només s' hagi caminat un quilòmetre una vegada. També és necessari caminar per fer-se una idea d'«amunt/avall», de la mateixa manera que «a prop/ luny». Si l'única experiència de l'altura dels llocs vingués de pujar
+
+i baixar en ascensors, la paraula alt no tindria gaire sentit com a mesura; en algun moment caldria haver pujat almenys unes escales per fer-la servir. Igual com un artesà ajunta l'experiencia física amb la comprensió mental de paraules com tibat, així es construeixen, segons Lussault, les geografies. Quan s'aprenen les dimensions d'un nou espai, el cos que camina o s'enfila proporciona una pri-mera vara de mesurar."
+
+---
+
+volem veure'n les relacions tal com ho faria un artesà. Amb el temps, l'artesa -posem que sigui una cirurgia-na- aprèn diferents tècniques per ter una acció com ara tallar un tendó; no està limitada a fer una cosa només d'una manera. El fet de guanyar experiència contrasta amb el desig d'una cirurgiana menys experimen-tada de tallar un tendó «correctament», és a dir, de seguir un model fixat del que cal fer. Sense noves Erlebnis, la cirurgiana mai no sentirà l'impuls de retlexionar sobre el que fa i elaborar-ho. L'Erlebnis comporta unes bones ruptures epistemològiques. Però és l'única manera de millorar. Amb el temps, amb l'experiència, a mesura que es van desenvolupant diferents habilitats, els models de com fer una cosa es multipliquen. La cirurgiana està oberta a això, però en té el control.
+
+---
+
+El prototip representa un punt d'in-flexió a l'hora de filtrar aquestes possibilitats i tancar alternatives.
+Les variacions sobre un tema no milloren necessària-ment el tema en si. Per fer una analogia amb un gegant musical: al larg del temps, Stradivarius va tallar els seus violoncels amb formes/ leugerament diferents i va experimentar amb vernissos diversos (de maneres que encara no coneixem exactament), però els seus ins-truments més tardans no són millors que els anteriors, simplement són diferents.
+
+En la vida quotidiana és més freqüent que a la variació la impul-si la necessitat de vendre nous productes que no el desig de qualitat de l'Homo faber, una veritat evident per a qualsevol que faci servir programes d'ordinador les «actualitzacions» dels quals a la pràctica els degraden cada cop més. Era contra aquest tipus de canvi comercial sense sentit que lluitava l'urbanista Gordon Cullen, i és per això que triava els usos a llarg termini de l'espai per traçar les línies mestres del seu disseny. Però aquesta crítica raonable de l'evolució de les formes tipus va en contra del conservadorisme que qualsevol que pertanyi al món acadèmic coneix bé: la por de ter alguna cosa diferent, embolicada amb ximpleries sobre la manca de precedents, les virtuts de no tocar una cosa que tunciona, etc. Entre aquests dos pols, ¿com pot una torma tipus urbana buscar la qualitat?
