@@ -91,3 +91,68 @@ El prototip representa un punt d'in-flexió a l'hora de filtrar aquestes possibi
 Les variacions sobre un tema no milloren necessària-ment el tema en si. Per fer una analogia amb un gegant musical: al larg del temps, Stradivarius va tallar els seus violoncels amb formes/ leugerament diferents i va experimentar amb vernissos diversos (de maneres que encara no coneixem exactament), però els seus ins-truments més tardans no són millors que els anteriors, simplement són diferents.
 
 En la vida quotidiana és més freqüent que a la variació la impul-si la necessitat de vendre nous productes que no el desig de qualitat de l'Homo faber, una veritat evident per a qualsevol que faci servir programes d'ordinador les «actualitzacions» dels quals a la pràctica els degraden cada cop més. Era contra aquest tipus de canvi comercial sense sentit que lluitava l'urbanista Gordon Cullen, i és per això que triava els usos a llarg termini de l'espai per traçar les línies mestres del seu disseny. Però aquesta crítica raonable de l'evolució de les formes tipus va en contra del conservadorisme que qualsevol que pertanyi al món acadèmic coneix bé: la por de ter alguna cosa diferent, embolicada amb ximpleries sobre la manca de precedents, les virtuts de no tocar una cosa que tunciona, etc. Entre aquests dos pols, ¿com pot una torma tipus urbana buscar la qualitat?
+
+---
+
+En la manera oberta de dissenyar, la gent hauria de tenir liber-tat per triar els materials i components que els resulten atractius.
+Però com que el seu coneixement del que es possible és limitat, tendeixen a refugiar-se en el que és familiar i tradicional.
+La sortida dels experts. Vaig pensar en una manera de resoldre aquesta asımetria a partır de la teina de Saul Alinsky, organitzador comunitari a Chicago. Els organitzadors de l'equip Alinsky no eren facilitadors, una paraula horrible que disfressa de voluntat d'aconsellar el que en realitat és control. Les persones dels seus
+
+equips s'implicaven: discutien, s'enfadaven, reconeixien que s'equi-vocaven, i no amagaven gens el fet que tenien més coneixements i una experiència més àmplia que la gent amb qui treballaven. Aques-ta mena de dinamització comunitària sembla que trenqui amb el mètode de l'Escola de Chicago de deixar que les persones interpre-tin per si mateixes la política d'empatia passiva. Però no són dues coses totalment diferents. La manera que tenia Alinsky d'organit-zar comunitats feia que els seus seguidors s'adonessin de quan arri-bava el moment de marxar i deixar que la comunitat prengués les seves propies decisions.
+
+Després de donar les nostres opinions sobre les coses bo-nes i dolentes de diferents alternatives de disseny, diria a la comuni-tat que en un moment donat els deixaríem perqué decidissin què fer. A quest procediment és el que fa que el planejament sigui obert.
+
+Quan l'autoritat abandona l'escenari, aleshores què passa?
+
+
+Aquí, en canvi, hi havia una manera més seriosa de tractar la diferència: centrar-se en el teixit físic i no en l'altre.
+
+A questa ètica de la coproducció també contrasta amb l'ética que guiava Sergio Fajardo a Medellín, on les biblioteques dissenyades pels arqui-tectes van donar a la gent edificis que els feien sentir-se orgullosos, després que un bon dissenyador o dissenyadora hagués fet la seva feina.
+
+deixaven en suspens el debat sobre el «qui» en el sentit social -qui encaixa en un lloc i qui no- per centrar-se de manera més impersonal en el «què» en sentit físic.
+
+Per tots aquests motius, quan he treballat amb comunitats, he intentat evitar la trampa d'etiquetar-les, de donar-los identitats per-què semblin llocs especials per a persones especials. El valor de la coproducció és que parla en plural, creant diferents versions de les ciutats obertes, i no en singular.
+
+---
+
+Coproduzr amb una maquina. La ville tecnologica es pot dividir en ciutats intel-ligents prescriptives o coordinadores (vegeu el capítol
+
+6). La ciutat intel-ligent prescriptiva no coprodueix les formes ur-banes amb el ciutadà: tant les formes com les funcions dels llocs es decideixen per endavant i el ciutadà les fa servir, seguint la norma, seductora però poc estimulant per a la ment, de fer el que resulti més còmode a l'usuari. Es una ville tancada. La ciutat intel-ligent que coordina és coproductora, amb dades en temps real que per-meten a la gent no tan sols reflexionar sobre com fer servir la ciutat sinó també, com a Lió o a Curitiba, sobre com modelar diferents formes constructives i plans per a carrers. Les formes alternatives proporcionen el model d'una ville moderna i oberta.
+
+Com es pot tenir una conversa amb una màquina? De fet, avui parlem amb maquines gairebé cada minut que estem desperts. So-vint aquestes converses acaben amb unes letres o una veu progra-mades que ens diuen què hem de fer. La tecla Command té un bon nom: no hi ha ni coproducció ni debat dialògic.
+
+Els procediments que he descrit es poden traslladar directament del paper o el porexpan a la pantalla; gràcies a determinats programes de disseny assistit per ordinador fa una dècada que és possible construir l'equivalent a maquetes de porexpan en pantalla i cami-nar-hi per dins, i en l'actualitat l'arribada de la impressió 3D suposa que es poden tallar maquetes de debò en poliestirè perquè la gent les examini. Com passa sempre que es treballa en pantalla, hi ha una certa pèrdua d'implicació a través del tacte, però un enorme guany social: no cal estar tísicament present en una reunió d'urba-nisme per participar-hi. Tanmateix, la transterencia no és pertecta.
+
+
+En part és a causa de la naturalesa de les maquines digitals que fa servir la gent. Aquestes maquines poden tenir dues formes: repli cants i robots. Com a usuaris, tenim converses diferents siguin d'una
+
+o altra mena.
+
+Un replicant és una maquina que imita funcions humanes, però que treballa millor, com ara un marcapassos o els braços mecà-nies que es fan servir a les fàbriques d'automobils. Tot i que no es cansen mai, als replicants els podem entendre perquè fan coses que nosaltres també fem. Quan interactuem amb un replicant, com ara un aparell activat per la veu i que respon també amb veu, ens hi comuniquem com amb una altra persona.
+
+Un robot pròpiament dit no està basat en el cos humà, sinó que té una forma independent basada en una altra logica. Fixem-nos en el cotxe sense conductor que dissenyava Bill Mitchell. L'automòbil podria funcionar com un replicant si oferís un volant i frens encara que, si tot anava bé, el conductor huma no els hagués de fer servir mai; igualment, el passatger no s' hauria de sentir passiu i en mans de la màquina. Si el cotxe sense conductor funcionés com un robot, sense pedals ni frens, l'experiència seria passiva, com quan es va amb tren o amb avió, i el passatger hauria de confiar en el funciona-ment del vehicle. Gairebé tota la tecnologia intel-ligent ha de pren-dre la mateixa decisió. Amb Google Maps, per exemple, suprimirla imatge del mapa i seguir només les instruccions escrites et porta al mateix lloc que si recuperes el mapa, amb el punt en moviment (u) seguint el camí recomanat. La primera manera, sense mapa, és ro-bòtica; la segona, el punt que es mou a la pantalla, és replicantica.
+
+Eis conjunts d'ordinadors que coordinen el processament de dades massives són replicantics perquè modelen la seva conducta en Pac-tivitat neuronal del cervell, però robòtics perquè distribueixen in-formació sense haver d'imitar la química de les neurones.
+
+Podria semblar que els replicants, més que els robots, són el socis mecànics que hauríem de voler per coproduir. Però no en el
+
+
+moment crític d'anar-se'n. És més facil fer-se càrrec d'un problema produit per un roboi que no pas per un replicant. Això passa sim-plement perquè el robot s'assembla menys a nosaltres, i les seves capacitats no conviden a la comparació amb les nostres. A les tabri-ques, els estudis han demostrat que als robots se'ls tendeix a considerar eines amb un abast limitat, però amb un poder infinit, per dur a terme una funció concreta, mentre que els replicants es veuen com a amenaces, com a superhumans que poden substituir els hu-mans a la cadena de muntatge. La majoria de robots no són facils d'usar en el sentit que s' assemblin a nosaltres, de manera que ens puguem identificar amb les seves accions, mentre que els replicants conviden a fer aquesta comparació... i hi sortim perdent.
+
+En les feines de disseny, la funció del robot apareix en imatges en pantalla que mostren l'estructura oculta darrere de la pell de l'edifici, mentre que la impressió 3D és un procediment més de replicant, que substitueix la mà humana que talla el porexpan per un tallador mecànic que fa la feina igual que una mà... però millor.
+
+el robot esdevé útil en un sentit que el venedor de Google que insistia en la facilitat d'ús no havia pre-vist: és facil d'usar com a recurs, i no com a substitut. Les perso-nes han de fer servir el seu propi raonament pel que fa a l'entorn, en comptes de seguir passivament les ordres de la cabina; amb un robot aquest procés és més fácil que amb un replicant. Hem de pensar en les maquines com a presències estranyes i no com a fà-cils de fer servir.
+
+la cooperació en un entorn com-plex requereix mantenir una certa distancia respecte a aquells amb qui cooperes. Si bé podem voler estar en guardia respecte a les maquines, això podria semblar pervers quan es tracta d'humans.
+
+
+---
+
+Les habilitats artesanes es desenvolupen lenta-ment, és a dir, per acreció. Els càlculs que vaig fer per a The Crafst-man van portar a l'ara coneguda «regla de les deu mil hores»: la quantitat de temps que cal per dominar les habilitats complexes ne-cessàries per jugar al tennis professional, tocar el violoncel o esde-venir un bon cirurgia. A més, cadascuna de les habilitats que constitueixen una practica artesana és contextual: les tècniques per tallar bé d'un bon cirurgià han d'estar relacionades amb les de separar amb compte la carn i els molts altres tipus de gestos acurats que haurà de desplegar en el transcurs d'una operació.
+
+Però perquè l'artesà millori les seves habilitats, s' ha de produir una ruptura, cal una tempesta d'habilitats. Si hi ha alguna cosa fora de lloc, si alguna cosa no es pot assimilar a allò que ja es coneix, la ruptura pot provocar que un fuster o un cirurgià repensi el que ja sap de la seva practica. En el món de l'artesania, aquestes ruptures/ són punts d' inflexió valuosos i especials. Les habilitas de l'artesà
+
+milloren perquè s'han enfrontat a l'inesperat: les antigues habilitats s'expandeixen, o se n'afegeixen de noves. No estic descrivint un estat ideal, sinó els mitjans pels quals la majoria d'artesans que he estudiat milloren en la seva feina: hi ha moments crucials en què necessiten desfer el que anteriorment donaven per fet. Així mateix,
+
+Festinger va descobrir que la ruptura d'una rutina -i per tant la creació d'una dissonància cognitiva-
+
