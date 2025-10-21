@@ -1,76 +1,62 @@
 # Construir i habitar: Ètica per a la ciutat
-Yochai Benkler diu: «El que va caracteritzar el primer quart de segle d'internet va ser un sistema integrat de sistemes oberts [...] capaç de resistir la pressió de qual-sevol autoritat centralitzada», mentre que avui «estem canviant a una internet que facilita l'acumulació de poder per part d'un con-junt relativament petit d'agents estatals i no estatals». Facebook, Google, Amazon, Intel, Apple, aquests noms personitiquen el problema que Benkler observa avui: l'era tancada d'internet consisteix en uns pocs monopolis que produeixen les màquines i els programes que es dediquen a l'extracció massiva d'informació. Un cop sha aconseguit, la programació dels monopolis esdevé cada cop més personalitzada i més controladora."
-
-la vida es pot fer més senzilla, més clara, més facil d'usar, com diem ara de la teno-logia, si la gent se sotmet a un règim que s'encarregui d'organit-zar-ho. Sabràs què estàs fent, perquè t'hauran delimitat les regles de la teva experiència. Però el que guanyis en claredat, ho perdràs en libertat. La teva experiència esdevindrà clara i tancada.
-
-Tant per a Popper com per a Burckhardt, les paraules clau de l'experiència oberta (comple-xa, ambigua, incerta) impliquen resistència a un règim de poder opressor. "
 
 
-Com podríem confiar en algú que nomes
-porta la mascara de la cortesia?
-El filòsof Russell Hardin observa que la confiança implica un salt «més enllà de la certesa» sobre el que esperem d'una altra persona o grup; així, diem que ens refiem del seu comportament, o que els fem confiança. La confiança verbal, de l'estil de «la meva parau-
-la és vinculant», significa que no cal explicitar detalladament _es co-ses. La confiança implícita és oberta, tot i que no és cega. Busquem pistes del que Hardin anomena «ser digne de confiança», cerquem el to de veu o els gestos de les mans propis d'una persona «de fiar», diem que «semblava "la mena de persona" en qui es pot confiar»." P.209
+> [!IMPORTANT]
+> ==30 Sept 2025==
+> *Construir i habitar: Ètica per a la ciutat* -  **Richard Sennet**
+>  ***Tags:*** #hci #artificial_inteligence #urbanism
 
+## Internet i el poder centralitzat
 
+> «El que va caracteritzar el primer quart de segle d'internet va ser un sistema integrat de sistemes oberts [...] capaç de resistir la pressió de qualsevol autoritat centralitzada» [...] «estem canviant a una internet que facilita l'acumulació de poder per part d'un conjunt relativament petit d'agents estatals i no estatals» (Yochai Benkler, citat per Sennett, p. 24)
 
----
+Sennett utilitza aquesta cita de Benkler per il·lustrar la transformació d'internet des d'un espai descentralitzat cap a un dominat per monopolis tecnològics (Facebook, Google, Amazon, Intel, Apple). Aquests gegants tecnològics no només controlen la infraestructura digital sinó que es dediquen a l'extracció massiva de dades, creant una programació cada vegada més personalitzada i controladora.
 
-III
+L'autor estableix una paradoxa: la vida esdevé més senzilla i fàcil d'usar quan ens sotmetem a sistemes que organitzen la nostra experiència, però aquest guany en claredat comporta una pèrdua de llibertat. L'experiència esdevé ***clara i tancada***
 
-«SENSE FRICCIÓ»
+==L'experiència oberta (caracteritzada per la complexitat, l'ambigüitat i la incertesa) és essencial per resistir els règims de poder opressors. Aquesta resistència no és només política sinó també existencial: acceptar la complexitat és mantenir l'espai per a la llibertat.==
 
-EL COST MENTAL PER ALS USUARIS DE LA TECNOLOGIA
+## La confiança més enllà de la certesa
 
-«FÀCIL D'USAR»
+> «la confiança implica un salt "més enllà de la certesa" sobre el que esperem d'una altra persona o grup» (Russell Hardin, citat per Sennett, p. 209)
 
-Bill Gates va encunyar l'expressió friction-free [sense fricció] per descriure la tecnologia user-friendly, o facil d'usar. El disseny sense fricció s'hauria de veure com la concreció del segon aspecte de la pro-fecia de Tocqueville, la «igualtat de condició» que és com es presenta el gust massificat, en aquest cas la manera com la gent vol consumir tecnologia: que sigui fàcil accedir-hi i que la pugui fer servir tothom.
+En aquest passatge, Sennett explora la naturalesa de la confiança autèntica versus la cortesia superficial. La pregunta retòrica inicial ("Com podríem confiar en algú que només porta la màscara de la cortesia?") estableix el problema: la confiança genuïna no pot basar-se en formalitats buides. La confiança requereix un acte de fe, anar més enllà del que podem verificar amb certesa. Quan diem "la meva paraula és vinculant", estem creant un espai obert on no tot necessita ser explicitat detalladament. Aquesta confiança implícita és "oberta, tot i que no és cega", una distinció important.
 
-En un aparell mecànic, és evident que l'enginyer vol minimitzar les friccions i resistències que desgasten la maquinària. El domini digital del «sense fricció» és diferent de l'imperatiu mecànic de re-duir el desgast. L'expressió s'aplica sobretot a la tecnologia que és facil d'usar però el funcionament de la qual és en gran part inacces-sible per a l'usuari, com en els cotxes controlats per ordinador amb unes entranyes massa complicades perquè un conductor normal s'hi pugui ficar: fem servir una cosa que no entenem." El guru de la programació Peter Merholz desenvolupa aquesta mentalitat quan explica com els creadors s'haurien de relacionar
+L'autor descriu com busquem senyals de fiabilitat en els altres: el to de veu, els gestos, la impressió general que algú és "la mena de persona" en qui es pot confiar. Aquestes pistes subtils són fonamentals per navegar les relacions humanes, però romanen sempre en el terreny de la incertesa, requerint aquest "salt" que Hardin identifica.
+## "Sense fricció": El cost mental de la tecnologia fàcil d'usar
 
-amb els consumidors un dels objectius del dissenyador hauria de ser ocultar als usuaris la complexitat de la tecnologia que tan servir. L'an tic cap del centre de recerca Xerox PARC, John Seely Brown, exhorta els seus col legues a «treure la tecnologia del mıg» en el moment d'utilitzar-la i a fer que l'experiència sembli «integrada». El cap de Facebook Mark Zuckerberg converteix aquesta exhortació en una fórmula social, concentrada en l'eslògan «compartir sense fricció»: el seu programari està pensat per disminur l'estorç i les frustracions de fer amics o aconseguir una cita. En tots ells, «sense fricció» esdevé «fàcil d'usar» quan l'usuari no ha de pensar «per què?». El fibló que s'amaga a la cua d'aquesta ètica és que l'escrutini crític de la tecnolo-gia esdevé més dificil; l'usuari sap si la tecnologia fa el que diu que fa, però els experts no l'ajuden a reflexionar sobre per què fa el que fa; al contrari, ho impedeixen. Per contra, en la plataforma de codi obert Linux, el seu nucli o kernel (l'ADN del programa) és molt més trans-parent, però també molt més exigent amb l'usuari. Per fer-lo servir bé, cal saber molt més sobre principis de programació que a l'hora d'utilitzar productes pensats per a mercats de masses."
+### La promesa de la facilitat
 
-Hi ha paradoxes tècniques integrades en el programari sense fricció. La més notable és la tendència cap a l'«excés de funcions», que es refereix a la sempre creixent faramalla que assegura a la gent que podran fer tot el que vulguin només pitjant un botó; hi ha una resposta programada a cada problema. L'«excés de funcions» apareix en programes de processament de textos com Microsoft Word, on l'enorme quantitat d'opcions pot alentir el procés d'es-criptura. En un camp més ténic, l'excés de funcions apareix en els programes de CAD (disseny assistit per ordinador) pensats per abastar totes les funcions des dels primers esbossos fins a 
-'especificació final dels materials; en aquest cas el programa obsta-culitza la concentració visual perquè ofereix massa posibilitats en
+> «Bill Gates va encunyar l'expressió friction-free **==sense fricció==** per descriure la tecnologia user-friendly, o fàcil d'usar» (p. 224)
 
-què concentrar-se.
+El concepte de "sense fricció" representa la materialització de "igualtat de condició", un gust massificat que demanda tecnologia accessible per a tothom. Però aquesta accessibilitat té un preu ocult.
 
-Certament, ter servir una cosa sense entendre-la és un repte molt vell. En l'antiguitat es feia servir l'all com un medicament efi-caç sense entendre'n gens les propietats químiques. En temps de Stradivarius els violinistes atortunats tocaven els seus violins sense entendre per què tenien aquell so magnitic; fins i tot avul, les pro-pietats sòniques d'aquells instruments encara són en part un miste-ri. L'ètica de l'absència de fricció intenta deixar de banda aquests dubtes tècnics. Promou la creació d'eines tecnològiques fàcils d'usar, i que alhora siguin capaces de fer qualsevol cosa. Les exi-gències no recauran en l'usuari. Aquest atractiu és just el que Toc-queville temia: el clam de la complexitat silenciat per la comoditat.
+Finalment, ==utilitzem tecnologies que no entenem==. Els cotxes controlats per ordinador són l'exemple perfecte: tenen entranyes massa complicades per a un conductor normal, ==els dissenyadors oculten la complexitat als usuaris==. 
 
-Però en el món de la tecnologia l'usuari paga un gran preu mental per rendir-se als arguments d'aquests venedors.
+> «El fibló que s'amaga a la cua d'aquesta ètica és que l'escrutini crític de la tecnologia esdevé més difícil» (p. 225)
 
-Fricció i cognició. Una pila d'analistes de la tecnologia ha criticat els efectes intel-lectualment empobridors de viure massa en línia. Entre ells, la psicologa Sherry Turkle ha observat els joves obsessio-nats amb els jocs d'ordinador. La mena de discussions que tenen els nois i noies a les zones de joc reals sobre qui juga net i quines normes hi hauria d'haver no es produeixen quan seuen davant de l'or-dinador: queden absorbits pel marc de normes predeterminades que asseguren que el joc pugui continuar. Nicholas Carr ha argu-mentat que el fet de fer diverses coses alhora a la pantalla incapacita cognitivament la gent, perque en redueix els períodes d'atenció i en consequencia els porta a evitar situacions que requereixin una atenció prolongada per comprendre-ies. Tots dos diuen que deter-minades experiències amb la tecnologia incapaciten per al tipus de cognició que demana una atenció continuada i crítica. La cultura de la informatica sense fricció pot ser un narcotic que disminueixi
+==El problema quan no entenem el "per què?" de la tecnologia, és què perdem la capacitat de qüestionar-la críticament. Linux ofereix un contraexemple amb el seu codi obert - més transparent però també més exigent amb l'usuari.==
 
+### L'excés de funcions i els seus efectes
 
+Existeix un "excés de funcions": programes ofereixen tantes opcions que paradoxalment poden alentir el procés creatiu. 
 
+L'autor contrasta Word amb el vell WordPerfect 5.1 (DOS), argumentant que aquest últim, tot i ser més difícil d'usar, no frenava l'experimentació. El seu corrector ortogràfic limitat permetia "paraules improbables sense cap restricció"
+### Fricció i cognició: Els efectes de generació
 
+> «Aquest terme fa referència a l'esforç d'analitzar informació incompleta, contradictòria o difícil, la informació que té un caràcter obert. Diversos estudis demostren que fer aquest esforç comporta que la gent retingui la informació millor i durant més temps» (p. 227)
 
+### L'abducció i el pensament contrafactual
 
-els estímuls físics, i reprimeixi especialment l'estimulació que pugui molestar: si no t'agrada el que veus, pitja el botó d'esborrar i ves a
+> «[L'abducció] suposa alguna cosa de tipus diferent del que hem observat directament i sovint una cosa que ens seria impossible observar directament» (Charles Sanders Peirce, citat per Sennett, p. 227)
 
-una altra finestra.' 14 15
+==Sennett utilitza el concepte d'abducció de Peirce per explicar el coneixement de l'"i si...?". L'exemple del Media Lab d'un tècnic què es pregunta "I si frenem estirant el volant en lloc de pitjar un pedal?". Aquesta manera de pensar contrafactual és essencial per a la innovació i el pensament crític.==
 
-Hem de refinar aquesta crítica, perquè no tota la tecnologia té aquest efecte maligne en el cervell. La idea de Merholz d'amagar la complexitat a l'usuari, per tal que 'experiència sigui fàcil i flueixi sense entrebanes, funciona d'una manera especial: liquida els «efec-tes de generació». A quest terme fa referència a l'esforç d'analizar informació incompleta, contradictòria o difícil, la informació que té un caràcter obert. Diversos estudis demostren que fer aquest es-forç comporta que la gent retingui la informació millor i durant més temps que si aquesta és completa, clara i resulta fàcil accedir-hi.
+No podem conèixer realment el valor de res si no ho desmuntem mentalment i alterem el seu caràcter donat per sabut.
 
+> «quan la dissonància és present, a més d'intentar reduir-la, la persona evitarà activament situacions i informacions que probablement incrementarien la dissonància» (p. 229)
 
-
-Els investigadors moderns de la cognició parteixen d'una intui-ció que el filòsof Charles Sanders Peirce va escriure al tombant del segle xx. Va anomenar abducció a un procés que «suposa alguna cosa de tipus diferent del que hem observat directament i sovint una cosa que ens seria impossible observar directament». L'abduc-ció és el coneixement de l' «i si...?». Un exemple que es va donar en el projecte d'automobil del Media Lab va ser la pregunta que va fer un dia un tècnic: «I si frenem estirant el volant en lloc de pitjar un pedal amb el peu?». Altres persones li van explicar que aiò no podia ser perquè el cos està fisiològicament programat per empènyer, i no estirar, per aturar-se. «I què?», va respondre el tècnic. «No es-tic parlant del meu cos tal com és, sinó tal com podria aprendre a ser». L'abducció és el que forma el domini del contrafactual. Peirce creia que tenia un paper crític a més d'imaginatiu. No podem saber el valor de res si no ho desmuntem mentalment, i alterem el caràc-ter donat per sabut de la realitat. Les creences religioses podrien haver estat un exemple d'aquesta prova de realitat, com ho van ser per William James, col-lega de Peirce. I si Déu no exists? No es por ser un creient realment convençut si no s'ha passat pel procés d'ex-perimentar aquest dubte contrafactual.'
-
-
-
-En el terreny de la tecnologia, quan alguna cosa és facil de fer servir no tendim a preguntar-nos què passaria si fos diferent. Una vegada que vaig cedir a la temptació de marcar la funció de «corre-gir la gramàtica» del meu processador de textos, em vaig merave-Ilar de veure com immediatament es va adonar de les peculiaritats que jo tenia a l'hora de construir les frases, però el programa no em suggeria solucions imaginatives o poc corrents per a aquestes males construccions, el «corrector gramatical» de Microsoft Word no funciona amb un esperit creatiu d'«I si...?». (En anglès, el que fa el corrector és check, que tant pot voler dir «controlar» com «frenar».) Es podria pensar que aquest dèficit es compensaria amb l'enorme ventall d'opcions d'edició i de format que té el programa: amb uns quants moviments del dit pots fer qualsevol cosa, des de maquetar un poema fins a organitzar el guió d'una pel-lícula o incorporar taules, imatges i text. Però el menú mateix ja és el proble-ma: ofereix formes predeterminades per a cada funció, i només es pot triar el que surt al menú. Això contrasta amb els programes
-
-DOS més antics com WordPerfect .I, una eina d'escriptura amb la qual era més difícil treballar perquè tenia poques funcions defini-des. Tot i amb això, era una eina prou satisfactoria perquè no tre-nava l'experimentació en la construcció de frases o els formats de text. El seu corrector ortogràfic era patèticament limitat, i això vo-lia dir que es podia fer aflorar paraules improbables sense cap res-tricció: James Joyce hauria odiat el Microsoft Word i hauria fet servir de bon grat el WordPerfect s.1. Un contrast semblant va sorgir al Media Lab. Per als seus habitants, els experiments que es poden formular fàcilment com a proves d'una hipotesi en termes de sí o no, es consideren experiments de segona; els de primera són els que es plantegen en termes d'aspectes desconeguts, possibilitats
-
-i «i si...».
-
-
-
-
-El coneixement incomplet porta a formular preguntes que es plantegin «i si...», perquè el que es fa les preguntes ha tractat la realitat com una cosa indeterminada, a la qual cadascú ha de trobar el sentit.
-
-
-La faula d'Isop La guineu i el raïm n'és un exemple clàssic. La guineu veu un gotim de raim molt enlaire, tant que no hi pot arri-bar; com que no pot agafar-lo, decideix que no val la pena men-jar-se'l perquè segurament és verd, tot i no tenir manera de saber-ho. La faula és l'origen de la dita que descriu aquesta manera de pensar, la frustració de no aconseguir el que volíem es justifica amb el pensament «de fet, tampoc no ho volia». Però en realitat, la guineu sí que ho vol: i si el raim caigués a terra, el devoraria amb fanes. Una manera de sortir d'aquest destret, escriu Festinger, és que «la persona intenti reduir la dissonància i assolir la consonàn-cia». Aquesta mentalitat pot voler dır que «quan la dissonancia és present, a més d'intentar reduir-la, la persona evitarà activament situacions 1 intormacions que probablement incrementarien la dis-sonància». Aquest és l'aspecte negatiu de la dissonancia cognitiva: el subjecte evita sempre que pot les complexitats que comporta.
-
+Aquest és l'aspecte negatiu de la dissonància cognitiva: evitem les complexitats sempre que podem, igual que la tecnologia "sense fricció" ens permet evitar entendre com funcionen les coses que utilitzem.
 
 
 ---
@@ -156,3 +142,34 @@ milloren perquè s'han enfrontat a l'inesperat: les antigues habilitats s'expand
 
 Festinger va descobrir que la ruptura d'una rutina -i per tant la creació d'una dissonància cognitiva-
 
+---
+
+
+A l'hora d'encarar un gerro trencat, un artesà pot seguir tres estratègies diferents: restauració, rehabilitació o reconfiguració. Aquestes tres estratègies són just les que una ciu-tat pot fer servir si rep els atacs del canvi climatic o pateix ruptures
+
+des de dins."
+
+Maneres de reparar. Quan restaura un gerro, l'artesà vol fer que P'objecte sembli igual que nou. Fa servir tots els bocins de porcella-na trencada que pot, omple els buits amb materials fets amb la fórmula original, fa servir una cola transparent. Quan es restaura un quadre, aquesta mena de reparació és més complicada, perquè el restaurador pictoric ha de decidir, per exemple, a quin estat vol resTaurar un paisatge de principis del Renaixement: el moment en què va ser completat inicialment o potser un altre moment, al cap de dos segles, en què el paisatge es va fer famós. Però en tots dos casos, la feina de l'artesà hauria de semblar invisible, i aturar el pas del temps.
+
+En segon lloc, el gerro es podria reparar mitjançant la rehabili-tació. En aquest tipus de feina, l'artesà faria servir una fórmula de porcellana moderna en lloc d'imitar l'original, 1 per mantenir unit l'objecte utilitzaria una goma d'enganxar més forta que l'original, però visible a la supertície del vas. El mateix tipus de rehabilitació es produeix quan es repara una maquina trencada canviant el xip de memoria origina. per un de nou i millorat, perque l'aparell funcioni més de pressa. Però igualment, en una rehabilitació, l'objecte fa el que estava destinat a fer originàriament: el gerro conté la mateixa quantitat d'aigua per a les flors; la măquina funciona amb el mateix programa. Ara la mà de l'artesà és evident en l'objecte rehabilitat 1 la reparació l'ha fet, en aiguns aspectes, millor que l'original.
+
+Un tercer tipus de reparació és la reconfiguració. Aquí, el fet que alguna cosa s'hagi trencat esdevé el motiu de fer un objecte di-ferent del d'abans, tant en forma com en funció. L'artesà, davant d'un gerro trencat, decideix que pot fer servir les peces per fer una safata en lloc d'un gerro, encastant-les en un aglomerant càustic per segellar les vores tallants, i així l'objecte nou-vell pugui contenir fruita o carn, de manera que en refà tant la forma com la funció.
+
+Fins a l'época moderna, els ceramistes estalviadors ho feien cons-tantment, per tal de llençar el mínim de materials preciosos.
+
+
+En la re-configuració, l'artesà esdevé un inventor de formes, més que el ser-vidor de les que han estat concebudes per altres. L'objecte original proporciona materials per a una feina que flueix cap endavant en el temps, uns materials que segueixen Lucreci, és a dir, sense forma ni destí predestinat.
+
+Aquestes tres formes de reparació cobreixen el ventall entre forma oberta i forma tancada. La restauració és un tipus de repara-ció tancat: el model determina els materials, la forma i la funció.
+
+En la rehabilitació, els materials queden liures però encara hi ha un estret lligam entre la forma i la funció. En la reconfiguració, aquest ligam s'afluixa, encara que els materials continuin sent els de l'original.
+
+406
+
+---
+
+la paraula krisis es referia a una decisió que cal prendre quan les coses arriben a un punt crític i ja no es pot evitar.
+
+El latí de Lucreci va matisar la paraula grega dient que hem de de-cidır amb serenitat què fer quan ens trobem davant d'una crisi. Els estois menyspreaven la mentalitat de crisi impulsada per la histèria o el terror.
+
+410
