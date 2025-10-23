@@ -58,25 +58,51 @@ No podem conèixer realment el valor de res si no ho desmuntem mentalment i alte
 
 Aquest és l'aspecte negatiu de la dissonància cognitiva: evitem les complexitats sempre que podem, igual que la tecnologia "sense fricció" ens permet evitar entendre com funcionen les coses que utilitzem.
 
+### El cos com a mesura de l'espai
+
+Un mapa ens pot dir que està a mil metres, però aquesta és només una xifra abstracta. Per entendre veritablement què significa "a prop" o "lluny", necessitem l'experiència corporal.
+
+> «en algun moment del desenvolupament de la persona hi ha un esforç físic que dona sentit al nombre que representa "lluny" o "a prop", encara que només s'hagi caminat un quilòmetre una vegada» (citant l'argument de Lussault) 270
+
+No necessitem caminar mil metres cada vegada que utilitzem aquests conceptes, però sí que necessitem haver-ho fet almenys una vegada per donar-los sentit real. El cos actua com a "primera vara de mesurar" per comprendre les dimensions espacials.
+
+> «Si l'única experiència de l'altura dels llocs vingués de pujar i baixar en ascensors, la paraula alt no tindria gaire sentit com a mesura; en algun moment caldria haver pujat almenys unes escales per fer-la servir» 270
+
+> «Igual com un artesà ajunta l'experiència física amb la comprensió mental de paraules com tibat, així es construeixen, segons Lussault, les geografies»
+
+De la mateixa manera que un fuster entén "tibat" o "flexible" a través de l'experiència directa amb els materials, construïm el nostre enteniment de l'espai a través de l'experiència corporal directa. 
+
+> «Quan s'aprenen les dimensions d'un nou espai, el cos que camina o s'enfila proporciona una primera vara de mesurar»
+
+Això suggereix que el nostre cos no és només un vehicle que es mou per l'espai, sinó l'instrument fonamental a través del qual comprenem i mesurem aquest espai. Sense aquesta experiència corporal, els conceptes espacials romanen abstractes i buits de significat real.
 
 ---
 
-Si mires un mapa, saps que hi ha una gasolinera a mil metres d'on ets, però això només és una xifra, has de fer personalment alguna mena d'esforç físic per tal de decıdır si la gasolinera és a prop teu o lluny de tu. Evidentment, la gent no pot camınar mıl metres,1 encaramenys deuquilometres.
+## L'experiència artesanal i l'evolució de les formes
 
-cada cop que vol fer servir les paraules «lluny» i «a prop». Lussault argumenta que, si bé això és cert, en algun moment del desenvolu-pament de la persona hi ha un esforç tísic que dona sentit al nom-bre que representa «lluny» o «a prop», encara que només s' hagi caminat un quilòmetre una vegada. També és necessari caminar per fer-se una idea d'«amunt/avall», de la mateixa manera que «a prop/ luny». Si l'única experiència de l'altura dels llocs vingués de pujar
+### L'aprenentatge a través de l'Erlebnis
 
-i baixar en ascensors, la paraula alt no tindria gaire sentit com a mesura; en algun moment caldria haver pujat almenys unes escales per fer-la servir. Igual com un artesà ajunta l'experiencia física amb la comprensió mental de paraules com tibat, així es construeixen, segons Lussault, les geografies. Quan s'aprenen les dimensions d'un nou espai, el cos que camina o s'enfila proporciona una pri-mera vara de mesurar."
+Sennett utilitza l'exemple d'una cirurgiana per il·lustrar com l'experiència (Erlebnis) transforma el coneixement professional. La cirurgiana experimentada aprèn diferents tècniques per tallar un tendó, contrastant amb la novella que busca fer-ho "correctament" seguint un model fixat.
 
----
+> «Sense noves Erlebnis, la cirurgiana mai no sentirà l'impuls de reflexionar sobre el que fa i elaborar-ho. L'Erlebnis comporta unes bones ruptures epistemològiques. Però és l'única manera de millorar»
 
-volem veure'n les relacions tal com ho faria un artesà. Amb el temps, l'artesa -posem que sigui una cirurgia-na- aprèn diferents tècniques per ter una acció com ara tallar un tendó; no està limitada a fer una cosa només d'una manera. El fet de guanyar experiència contrasta amb el desig d'una cirurgiana menys experimen-tada de tallar un tendó «correctament», és a dir, de seguir un model fixat del que cal fer. Sense noves Erlebnis, la cirurgiana mai no sentirà l'impuls de retlexionar sobre el que fa i elaborar-ho. L'Erlebnis comporta unes bones ruptures epistemològiques. Però és l'única manera de millorar. Amb el temps, amb l'experiència, a mesura que es van desenvolupant diferents habilitats, els models de com fer una cosa es multipliquen. La cirurgiana està oberta a això, però en té el control.
+==Lexperiència viscuda genera ruptures epistemològiques necessàries per al veritable aprenentatge. Amb el temps, els models de com fer les coses es multipliquen, i el professional experimentat està "obert a això, però en té el control",  una tensió productiva entre obertura i domini.==
 
----
+El prototip apareix com un moment crític en aquest procés: "representa un punt d'inflexió a l'hora de filtrar aquestes possibilitats i tancar alternatives". És el moment on la multiplicitat d'opcions es cristal·litza en una forma concreta.
 
-El prototip representa un punt d'in-flexió a l'hora de filtrar aquestes possibilitats i tancar alternatives.
-Les variacions sobre un tema no milloren necessària-ment el tema en si. Per fer una analogia amb un gegant musical: al larg del temps, Stradivarius va tallar els seus violoncels amb formes/ leugerament diferents i va experimentar amb vernissos diversos (de maneres que encara no coneixem exactament), però els seus ins-truments més tardans no són millors que els anteriors, simplement són diferents.
+### La variació sense millora: El cas Stradivarius i els dilemes contemporanis
 
-En la vida quotidiana és més freqüent que a la variació la impul-si la necessitat de vendre nous productes que no el desig de qualitat de l'Homo faber, una veritat evident per a qualsevol que faci servir programes d'ordinador les «actualitzacions» dels quals a la pràctica els degraden cada cop més. Era contra aquest tipus de canvi comercial sense sentit que lluitava l'urbanista Gordon Cullen, i és per això que triava els usos a llarg termini de l'espai per traçar les línies mestres del seu disseny. Però aquesta crítica raonable de l'evolució de les formes tipus va en contra del conservadorisme que qualsevol que pertanyi al món acadèmic coneix bé: la por de ter alguna cosa diferent, embolicada amb ximpleries sobre la manca de precedents, les virtuts de no tocar una cosa que tunciona, etc. Entre aquests dos pols, ¿com pot una torma tipus urbana buscar la qualitat?
+> «al llarg del temps, Stradivarius va tallar els seus violoncels amb formes lleugerament diferents i va experimentar amb vernissos diversos (de maneres que encara no coneixem exactament), però els seus instruments més tardans no són millors que els anteriors, simplement són diferents»
+
+La variació no sempre significa millora. 
+
+Sennett contrasta aquest tipus de variació artesanal amb la realitat comercial contemporània:
+
+> «En la vida quotidiana és més freqüent que a la variació la impulsi la necessitat de vendre nous productes que no el desig de qualitat de l'Homo faber»
+
+Les "actualitzacions" de programari que degraden el producte "canvi comercial sense sentit", preferint els usos a llarg termini de l'espai per guiar el disseny.
+
+> «la por de fer alguna cosa diferent, embolicada amb ximpleries sobre la manca de precedents, les virtuts de no tocar una cosa que funciona, etc.»
 
 ---
 
