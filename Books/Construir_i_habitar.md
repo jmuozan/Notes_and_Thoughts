@@ -6,6 +6,7 @@
 > *Construir i habitar: Ètica per a la ciutat* -  **Richard Sennet**
 >  ***Tags:*** #hci #artificial_inteligence #urbanism
 
+![](./IMG/Construir_i_habitar.png)
 ## Internet i el poder centralitzat
 
 > «El que va caracteritzar el primer quart de segle d'internet va ser un sistema integrat de sistemes oberts [...] capaç de resistir la pressió de qualsevol autoritat centralitzada» [...] «estem canviant a una internet que facilita l'acumulació de poder per part d'un conjunt relativament petit d'agents estatals i no estatals» (Yochai Benkler, citat per Sennett, p. 24)
